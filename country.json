@@ -1,0 +1,1761 @@
+{
+    "country": [
+        {
+            "code": "AD",
+            "name": "Andorra",
+            "nativeName": "Andorra",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/and.svg"
+        },
+        {
+            "code": "AE",
+            "name": "United Arab Emirates",
+            "nativeName": "دولة الإمارات العربية المتحدة",
+            "timezones": "UTC+04",
+            "flag": "https://restcountries.eu/data/are.svg"
+        },
+        {
+            "code": "AF",
+            "name": "Afghanistan",
+            "nativeName": "افغانستان",
+            "timezones": "UTC+04:30",
+            "flag": "https://restcountries.eu/data/afg.svg"
+        },
+        {
+            "code": "AG",
+            "name": "Antigua and Barbuda",
+            "nativeName": "Antigua and Barbuda",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/atg.svg"
+        },
+        {
+            "code": "AI",
+            "name": "Anguilla",
+            "nativeName": "Anguilla",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/aia.svg"
+        },
+        {
+            "code": "AL",
+            "name": "Albania",
+            "nativeName": "Shqipëria",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/alb.svg"
+        },
+        {
+            "code": "AM",
+            "name": "Armenia",
+            "nativeName": "Հայաստան",
+            "timezones": "UTC+04:00",
+            "flag": "https://restcountries.eu/data/arm.svg"
+        },
+        {
+            "code": "AN",
+            "name": "Netherlands Antilles",
+            "nativeName": "Netherlands Antilles",
+            "timezones": "UTC-04:00",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg"
+        },
+        {
+            "code": "AO",
+            "name": "Angola",
+            "nativeName": "Angola",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/ago.svg"
+        },
+        {
+            "code": "AQ",
+            "name": "Antarctica",
+            "nativeName": "Antarctica",
+            "timezones": "UTC-03:00",
+            "flag": "https://restcountries.eu/data/ata.svg"
+        },
+        {
+            "code": "AR",
+            "name": "Argentina",
+            "nativeName": "Argentina",
+            "timezones": "UTC-03:00",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Argentina_%283-2%29.svg"
+        },
+        {
+            "code": "AS",
+            "name": "American Samoa",
+            "nativeName": "American Samoa",
+            "timezones": "UTC-11:00",
+            "flag": "https://restcountries.eu/data/asm.svg"
+        },
+        {
+            "code": "AT",
+            "name": "Austria",
+            "nativeName": "Österreich",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/aut.svg"
+        },
+        {
+            "code": "AU",
+            "name": "Australia",
+            "nativeName": "Australia",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/aus.svg"
+        },
+        {
+            "code": "AW",
+            "name": "Aruba",
+            "nativeName": "Aruba",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/abw.svg"
+        },
+        {
+            "code": "AX",
+            "name": "Åland Islands",
+            "nativeName": "Åland",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/ala.svg"
+        },
+        {
+            "code": "AZ",
+            "name": "Azerbaijan",
+            "nativeName": "Azərbaycan",
+            "timezones": "UTC+04:00",
+            "flag": "https://restcountries.eu/data/aze.svg"
+        },
+        {
+            "code": "BA",
+            "name": "Bosnia and Herzegovina",
+            "nativeName": "Bosna i Hercegovina",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/bih.svg"
+        },
+        {
+            "code": "BB",
+            "name": "Barbados",
+            "nativeName": "Barbados",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/brb.svg"
+        },
+        {
+            "code": "BD",
+            "name": "Bangladesh",
+            "nativeName": "Bangladesh",
+            "timezones": "UTC+06:00",
+            "flag": "https://restcountries.eu/data/bgd.svg"
+        },
+        {
+            "code": "BE",
+            "name": "Belgium",
+            "nativeName": "België",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/bel.svg"
+        },
+        {
+            "code": "BF",
+            "name": "Burkina Faso",
+            "nativeName": "Burkina Faso",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/bfa.svg"
+        },
+        {
+            "code": "BG",
+            "name": "Bulgaria",
+            "nativeName": "България",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/bgr.svg"
+        },
+        {
+            "code": "BH",
+            "name": "Bahrain",
+            "nativeName": "‏البحرين",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/bhr.svg"
+        },
+        {
+            "code": "BI",
+            "name": "Burundi",
+            "nativeName": "Burundi",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/bdi.svg"
+        },
+        {
+            "code": "BJ",
+            "name": "Benin",
+            "nativeName": "Bénin",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/ben.svg"
+        },
+        {
+            "code": "BL",
+            "name": "Saint Barthélemy",
+            "nativeName": "Saint-Barthélemy",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/blm.svg"
+        },
+        {
+            "code": "BM",
+            "name": "Bermuda",
+            "nativeName": "Bermuda",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/bmu.svg"
+        },
+        {
+            "code": "BN",
+            "name": "Brunei Darussalam",
+            "nativeName": "Negara Brunei Darussalam",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/brn.svg"
+        },
+        {
+            "code": "BO",
+            "name": "Bolivia",
+            "nativeName": "Bolivia",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/bol.svg"
+        },
+        {
+            "code": "BQ",
+            "name": "Caribbean Netherlands",
+            "nativeName": "Bonaire",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/bes.svg"
+        },
+        {
+            "code": "BR",
+            "name": "Brazil",
+            "nativeName": "Brasil",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/bra.svg"
+        },
+        {
+            "code": "BS",
+            "name": "Bahamas",
+            "nativeName": "Bahamas",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/bhs.svg"
+        },
+        {
+            "code": "BT",
+            "name": "Bhutan",
+            "nativeName": "ʼbrug-yul",
+            "timezones": "UTC+06:00",
+            "flag": "https://restcountries.eu/data/btn.svg"
+        },
+        {
+            "code": "BV",
+            "name": "Bouvet Island",
+            "nativeName": "Bouvetøya",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/bvt.svg"
+        },
+        {
+            "code": "BW",
+            "name": "Botswana",
+            "nativeName": "Botswana",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/bwa.svg"
+        },
+        {
+            "code": "BY",
+            "name": "Belarus",
+            "nativeName": "Белару́сь",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/blr.svg"
+        },
+        {
+            "code": "BZ",
+            "name": "Belize",
+            "nativeName": "Belize",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/blz.svg"
+        },
+        {
+            "code": "CA",
+            "name": "Canada",
+            "nativeName": "Canada",
+            "timezones": "UTC-08:00",
+            "flag": "https://restcountries.eu/data/can.svg"
+        },
+        {
+            "code": "CC",
+            "name": "Cocos (Keeling) Islands",
+            "nativeName": "Cocos (Keeling) Islands",
+            "timezones": "UTC+06:30",
+            "flag": "https://restcountries.eu/data/cck.svg"
+        },
+        {
+            "code": "CD",
+            "name": "Congo, the Democratic Republic of the",
+            "nativeName": "République démocratique du Congo",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/cod.svg"
+        },
+        {
+            "code": "CF",
+            "name": "Central African Republic",
+            "nativeName": "Ködörösêse tî Bêafrîka",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/caf.svg"
+        },
+        {
+            "code": "CG",
+            "name": "Congo",
+            "nativeName": "République du Congo",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/cog.svg"
+        },
+        {
+            "code": "CH",
+            "name": "Switzerland",
+            "nativeName": "Schweiz",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/che.svg"
+        },
+        {
+            "code": "CI",
+            "name": "Cote D'Ivoire",
+            "nativeName": "Côte d'Ivoire",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/civ.svg"
+        },
+        {
+            "code": "CK",
+            "name": "Cook Islands",
+            "nativeName": "Cook Islands",
+            "timezones": "UTC-10:00",
+            "flag": "https://restcountries.eu/data/cok.svg"
+        },
+        {
+            "code": "CL",
+            "name": "Chile",
+            "nativeName": "Chile",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/chl.svg"
+        },
+        {
+            "code": "CM",
+            "name": "Cameroon",
+            "nativeName": "Cameroon",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/cmr.svg"
+        },
+        {
+            "code": "CN",
+            "name": "China",
+            "nativeName": "中国",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/chn.svg"
+        },
+        {
+            "code": "CO",
+            "name": "Colombia",
+            "nativeName": "Colombia",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/col.svg"
+        },
+        {
+            "code": "CR",
+            "name": "Costa Rica",
+            "nativeName": "Costa Rica",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/cri.svg"
+        },
+        {
+            "code": "CS",
+            "name": "Serbia and Montenegro",
+            "nativeName": "Serbia and Montenegro",
+            "timezones": "UTC+01:00",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flag_of_Serbia_and_Montenegro_%28with_coat_of_arms%29.svg"
+        },
+        {
+            "code": "CU",
+            "name": "Cuba",
+            "nativeName": "Cuba",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/cub.svg"
+        },
+        {
+            "code": "CV",
+            "name": "Cape Verde",
+            "nativeName": "Cabo Verde",
+            "timezones": "UTC-01:00",
+            "flag": "https://restcountries.eu/data/cpv.svg"
+        },
+        {
+            "code": "CW",
+            "name": "Curaçao",
+            "nativeName": "Curaçao",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/cuw.svg"
+        },
+        {
+            "code": "CX",
+            "name": "Christmas Island",
+            "nativeName": "Christmas Island",
+            "timezones": "UTC+07:00",
+            "flag": "https://restcountries.eu/data/cxr.svg"
+        },
+        {
+            "code": "CY",
+            "name": "Cyprus",
+            "nativeName": "Κύπρος",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/cyp.svg"
+        },
+        {
+            "code": "CZ",
+            "name": "Czech Republic",
+            "nativeName": "Česká republika",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/cze.svg"
+        },
+        {
+            "code": "DE",
+            "name": "Germany",
+            "nativeName": "Deutschland",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/deu.svg"
+        },
+        {
+            "code": "DJ",
+            "name": "Djibouti",
+            "nativeName": "Djibouti",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/dji.svg"
+        },
+        {
+            "code": "DK",
+            "name": "Denmark",
+            "nativeName": "Danmark",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/dnk.svg"
+        },
+        {
+            "code": "DM",
+            "name": "Dominica",
+            "nativeName": "Dominica",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/dma.svg"
+        },
+        {
+            "code": "DO",
+            "name": "Dominican Republic",
+            "nativeName": "República Dominicana",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/dom.svg"
+        },
+        {
+            "code": "DZ",
+            "name": "Algeria",
+            "nativeName": "الجزائر",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/dza.svg"
+        },
+        {
+            "code": "EC",
+            "name": "Ecuador",
+            "nativeName": "Ecuador",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/ecu.svg"
+        },
+        {
+            "code": "EE",
+            "name": "Estonia",
+            "nativeName": "Eesti",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/est.svg"
+        },
+        {
+            "code": "EG",
+            "name": "Egypt",
+            "nativeName": "مصر‎",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/egy.svg"
+        },
+        {
+            "code": "EH",
+            "name": "Western Sahara",
+            "nativeName": "الصحراء الغربية",
+            "timezones": "UTC+00:00",
+            "flag": "https://restcountries.eu/data/esh.svg"
+        },
+        {
+            "code": "ER",
+            "name": "Eritrea",
+            "nativeName": "ኤርትራ",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/eri.svg"
+        },
+        {
+            "code": "ES",
+            "name": "Spain",
+            "nativeName": "España",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/esp.svg"
+        },
+        {
+            "code": "ET",
+            "name": "Ethiopia",
+            "nativeName": "ኢትዮጵያ",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/eth.svg"
+        },
+        {
+            "code": "FI",
+            "name": "Finland",
+            "nativeName": "Suomi",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/fin.svg"
+        },
+        {
+            "code": "FJ",
+            "name": "Fiji",
+            "nativeName": "Fiji",
+            "timezones": "UTC+12:00",
+            "flag": "https://restcountries.eu/data/fji.svg"
+        },
+        {
+            "code": "FK",
+            "name": "Falkland Islands (Malvinas)",
+            "nativeName": "Falkland Islands",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/flk.svg"
+        },
+        {
+            "code": "FM",
+            "name": "Micronesia, Federated States of",
+            "nativeName": "Micronesia",
+            "timezones": "UTC+10:00",
+            "flag": "https://restcountries.eu/data/fsm.svg"
+        },
+        {
+            "code": "FO",
+            "name": "Faroe Islands",
+            "nativeName": "Føroyar",
+            "timezones": "UTC+00:00",
+            "flag": "https://restcountries.eu/data/fro.svg"
+        },
+        {
+            "code": "FR",
+            "name": "France",
+            "nativeName": "France",
+            "timezones": "UTC-10:00",
+            "flag": "https://restcountries.eu/data/fra.svg"
+        },
+        {
+            "code": "GA",
+            "name": "Gabon",
+            "nativeName": "Gabon",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/gab.svg"
+        },
+        {
+            "code": "GB",
+            "name": "United Kingdom",
+            "nativeName": "United Kingdom",
+            "timezones": "UTC-08:00",
+            "flag": "https://restcountries.eu/data/gbr.svg"
+        },
+        {
+            "code": "GD",
+            "name": "Grenada",
+            "nativeName": "Grenada",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/grd.svg"
+        },
+        {
+            "code": "GE",
+            "name": "Georgia",
+            "nativeName": "საქართველო",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/geo.svg"
+        },
+        {
+            "code": "GF",
+            "name": "French Guiana",
+            "nativeName": "Guyane française",
+            "timezones": "UTC-03:00",
+            "flag": "https://restcountries.eu/data/guf.svg"
+        },
+        {
+            "code": "GG",
+            "name": "Guernsey",
+            "nativeName": "Guernsey",
+            "timezones": "UTC+00:00",
+            "flag": "https://restcountries.eu/data/ggy.svg"
+        },
+        {
+            "code": "GH",
+            "name": "Ghana",
+            "nativeName": "Ghana",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/gha.svg"
+        },
+        {
+            "code": "GI",
+            "name": "Gibraltar",
+            "nativeName": "Gibraltar",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/gib.svg"
+        },
+        {
+            "code": "GL",
+            "name": "Greenland",
+            "nativeName": "Kalaallit Nunaat",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/grl.svg"
+        },
+        {
+            "code": "GM",
+            "name": "Gambia",
+            "nativeName": "Gambia",
+            "timezones": "UTC+00:00",
+            "flag": "https://restcountries.eu/data/gmb.svg"
+        },
+        {
+            "code": "GN",
+            "name": "Guinea",
+            "nativeName": "Guinée",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/gin.svg"
+        },
+        {
+            "code": "GP",
+            "name": "Guadeloupe",
+            "nativeName": "Guadeloupe",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/glp.svg"
+        },
+        {
+            "code": "GQ",
+            "name": "Equatorial Guinea",
+            "nativeName": "Guinea Ecuatorial",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/gnq.svg"
+        },
+        {
+            "code": "GR",
+            "name": "Greece",
+            "nativeName": "Ελλάδα",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/grc.svg"
+        },
+        {
+            "code": "GS",
+            "name": "South Georgia and the South Sandwich Islands",
+            "nativeName": "South Georgia",
+            "timezones": "UTC-02:00",
+            "flag": "https://restcountries.eu/data/sgs.svg"
+        },
+        {
+            "code": "GT",
+            "name": "Guatemala",
+            "nativeName": "Guatemala",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/gtm.svg"
+        },
+        {
+            "code": "GU",
+            "name": "Guam",
+            "nativeName": "Guam",
+            "timezones": "UTC+10:00",
+            "flag": "https://restcountries.eu/data/gum.svg"
+        },
+        {
+            "code": "GW",
+            "name": "Guinea-Bissau",
+            "nativeName": "Guiné-Bissau",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/gnb.svg"
+        },
+        {
+            "code": "GY",
+            "name": "Guyana",
+            "nativeName": "Guyana",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/guy.svg"
+        },
+        {
+            "code": "HK",
+            "name": "Hong Kong",
+            "nativeName": "香港",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/hkg.svg"
+        },
+        {
+            "code": "HM",
+            "name": "Heard Island and Mcdonald Islands",
+            "nativeName": "Heard Island and McDonald Islands",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/hmd.svg"
+        },
+        {
+            "code": "HN",
+            "name": "Honduras",
+            "nativeName": "Honduras",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/hnd.svg"
+        },
+        {
+            "code": "HR",
+            "name": "Croatia",
+            "nativeName": "Hrvatska",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/hrv.svg"
+        },
+        {
+            "code": "HT",
+            "name": "Haiti",
+            "nativeName": "Haïti",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/hti.svg"
+        },
+        {
+            "code": "HU",
+            "name": "Hungary",
+            "nativeName": "Magyarország",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/hun.svg"
+        },
+        {
+            "code": "ID",
+            "name": "Indonesia",
+            "nativeName": "Indonesia",
+            "timezones": "UTC+07:00",
+            "flag": "https://restcountries.eu/data/idn.svg"
+        },
+        {
+            "code": "IE",
+            "name": "Ireland",
+            "nativeName": "Éire",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/irl.svg"
+        },
+        {
+            "code": "IL",
+            "name": "Israel",
+            "nativeName": "יִשְׂרָאֵל",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/isr.svg"
+        },
+        {
+            "code": "IM",
+            "name": "Isle of Man",
+            "nativeName": "Isle of Man",
+            "timezones": "UTC+00:00",
+            "flag": "https://restcountries.eu/data/imn.svg"
+        },
+        {
+            "code": "IN",
+            "name": "India",
+            "nativeName": "भारत",
+            "timezones": "UTC+05:30",
+            "flag": "https://restcountries.eu/data/ind.svg"
+        },
+        {
+            "code": "IO",
+            "name": "British Indian Ocean Territory",
+            "nativeName": "British Indian Ocean Territory",
+            "timezones": "UTC+06:00",
+            "flag": "https://restcountries.eu/data/iot.svg"
+        },
+        {
+            "code": "IQ",
+            "name": "Iraq",
+            "nativeName": "العراق",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/irq.svg"
+        },
+        {
+            "code": "IR",
+            "name": "Iran, Islamic Republic of",
+            "nativeName": "ایران",
+            "timezones": "UTC+03:30",
+            "flag": "https://restcountries.eu/data/irn.svg"
+        },
+        {
+            "code": "IS",
+            "name": "Iceland",
+            "nativeName": "Ísland",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/isl.svg"
+        },
+        {
+            "code": "IT",
+            "name": "Italy",
+            "nativeName": "Italia",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/ita.svg"
+        },
+        {
+            "code": "JE",
+            "name": "Jersey",
+            "nativeName": "Jersey",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/jey.svg"
+        },
+        {
+            "code": "JM",
+            "name": "Jamaica",
+            "nativeName": "Jamaica",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/jam.svg"
+        },
+        {
+            "code": "JO",
+            "name": "Jordan",
+            "nativeName": "الأردن",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/jor.svg"
+        },
+        {
+            "code": "JP",
+            "name": "Japan",
+            "nativeName": "日本",
+            "timezones": "UTC+09:00",
+            "flag": "https://restcountries.eu/data/jpn.svg"
+        },
+        {
+            "code": "KE",
+            "name": "Kenya",
+            "nativeName": "Kenya",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/ken.svg"
+        },
+        {
+            "code": "KG",
+            "name": "Kyrgyzstan",
+            "nativeName": "Кыргызстан",
+            "timezones": "UTC+06:00",
+            "flag": "https://restcountries.eu/data/kgz.svg"
+        },
+        {
+            "code": "KH",
+            "name": "Cambodia",
+            "nativeName": "Kâmpŭchéa",
+            "timezones": "UTC+07:00",
+            "flag": "https://restcountries.eu/data/khm.svg"
+        },
+        {
+            "code": "KI",
+            "name": "Kiribati",
+            "nativeName": "Kiribati",
+            "timezones": "UTC+12:00",
+            "flag": "https://restcountries.eu/data/kir.svg"
+        },
+        {
+            "code": "KM",
+            "name": "Comoros",
+            "nativeName": "Komori",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/com.svg"
+        },
+        {
+            "code": "KN",
+            "name": "Saint Kitts and Nevis",
+            "nativeName": "Saint Kitts and Nevis",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/kna.svg"
+        },
+        {
+            "code": "KP",
+            "name": "Korea, Democratic People's Republic of",
+            "nativeName": "북한",
+            "timezones": "UTC+09:00",
+            "flag": "https://restcountries.eu/data/prk.svg"
+        },
+        {
+            "code": "KR",
+            "name": "Korea, Republic of",
+            "nativeName": "대한민국",
+            "timezones": "UTC+09:00",
+            "flag": "https://restcountries.eu/data/kor.svg"
+        },
+        {
+            "code": "KW",
+            "name": "Kuwait",
+            "nativeName": "الكويت",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/kwt.svg"
+        },
+        {
+            "code": "KY",
+            "name": "Cayman Islands",
+            "nativeName": "Cayman Islands",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/cym.svg"
+        },
+        {
+            "code": "KZ",
+            "name": "Kazakhstan",
+            "nativeName": "Қазақстан",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/kaz.svg"
+        },
+        {
+            "code": "LA",
+            "name": "Lao People's Democratic Republic",
+            "nativeName": "ສປປລາວ",
+            "timezones": "UTC+07:00",
+            "flag": "https://restcountries.eu/data/lao.svg"
+        },
+        {
+            "code": "LB",
+            "name": "Lebanon",
+            "nativeName": "لبنان",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/lbn.svg"
+        },
+        {
+            "code": "LC",
+            "name": "Saint Lucia",
+            "nativeName": "Saint Lucia",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/lca.svg"
+        },
+        {
+            "code": "LI",
+            "name": "Liechtenstein",
+            "nativeName": "Liechtenstein",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/lie.svg"
+        },
+        {
+            "code": "LK",
+            "name": "Sri Lanka",
+            "nativeName": "śrī laṃkāva",
+            "timezones": "UTC+05:30",
+            "flag": "https://restcountries.eu/data/lka.svg"
+        },
+        {
+            "code": "LR",
+            "name": "Liberia",
+            "nativeName": "Liberia",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/lbr.svg"
+        },
+        {
+            "code": "LS",
+            "name": "Lesotho",
+            "nativeName": "Lesotho",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/lso.svg"
+        },
+        {
+            "code": "LT",
+            "name": "Lithuania",
+            "nativeName": "Lietuva",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/ltu.svg"
+        },
+        {
+            "code": "LU",
+            "name": "Luxembourg",
+            "nativeName": "Luxembourg",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/lux.svg"
+        },
+        {
+            "code": "LV",
+            "name": "Latvia",
+            "nativeName": "Latvija",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/lva.svg"
+        },
+        {
+            "code": "LY",
+            "name": "Libyan Arab Jamahiriya",
+            "nativeName": "‏ليبيا",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/lby.svg"
+        },
+        {
+            "code": "MA",
+            "name": "Morocco",
+            "nativeName": "المغرب",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/mar.svg"
+        },
+        {
+            "code": "MC",
+            "name": "Monaco",
+            "nativeName": "Monaco",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/mco.svg"
+        },
+        {
+            "code": "MD",
+            "name": "Moldova, Republic of",
+            "nativeName": "Moldova",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/mda.svg"
+        },
+        {
+            "code": "ME",
+            "name": "Montenegro",
+            "nativeName": "Црна Гора",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/mne.svg"
+        },
+        {
+            "code": "MF",
+            "name": "Saint Martin",
+            "nativeName": "Saint-Martin",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/maf.svg"
+        },
+        {
+            "code": "MG",
+            "name": "Madagascar",
+            "nativeName": "Madagasikara",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/mdg.svg"
+        },
+        {
+            "code": "MH",
+            "name": "Marshall Islands",
+            "nativeName": "M̧ajeļ",
+            "timezones": "UTC+12:00",
+            "flag": "https://restcountries.eu/data/mhl.svg"
+        },
+        {
+            "code": "MK",
+            "name": "Macedonia, the Former Yugoslav Republic of",
+            "nativeName": "Македонија",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/mkd.svg"
+        },
+        {
+            "code": "ML",
+            "name": "Mali",
+            "nativeName": "Mali",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/mli.svg"
+        },
+        {
+            "code": "MM",
+            "name": "Myanmar",
+            "nativeName": "Myanma",
+            "timezones": "UTC+06:30",
+            "flag": "https://restcountries.eu/data/mmr.svg"
+        },
+        {
+            "code": "MN",
+            "name": "Mongolia",
+            "nativeName": "Монгол улс",
+            "timezones": "UTC+07:00",
+            "flag": "https://restcountries.eu/data/mng.svg"
+        },
+        {
+            "code": "MO",
+            "name": "Macao",
+            "nativeName": "澳門",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/mac.svg"
+        },
+        {
+            "code": "MP",
+            "name": "Northern Mariana Islands",
+            "nativeName": "Northern Mariana Islands",
+            "timezones": "UTC+10:00",
+            "flag": "https://restcountries.eu/data/mnp.svg"
+        },
+        {
+            "code": "MQ",
+            "name": "Martinique",
+            "nativeName": "Martinique",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/mtq.svg"
+        },
+        {
+            "code": "MR",
+            "name": "Mauritania",
+            "nativeName": "موريتانيا",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/mrt.svg"
+        },
+        {
+            "code": "MS",
+            "name": "Montserrat",
+            "nativeName": "Montserrat",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/msr.svg"
+        },
+        {
+            "code": "MT",
+            "name": "Malta",
+            "nativeName": "Malta",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/mlt.svg"
+        },
+        {
+            "code": "MU",
+            "name": "Mauritius",
+            "nativeName": "Maurice",
+            "timezones": "UTC+04:00",
+            "flag": "https://restcountries.eu/data/mus.svg"
+        },
+        {
+            "code": "MV",
+            "name": "Maldives",
+            "nativeName": "Maldives",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/mdv.svg"
+        },
+        {
+            "code": "MW",
+            "name": "Malawi",
+            "nativeName": "Malawi",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/mwi.svg"
+        },
+        {
+            "code": "MX",
+            "name": "Mexico",
+            "nativeName": "México",
+            "timezones": "UTC-08:00",
+            "flag": "https://restcountries.eu/data/mex.svg"
+        },
+        {
+            "code": "MY",
+            "name": "Malaysia",
+            "nativeName": "Malaysia",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/mys.svg"
+        },
+        {
+            "code": "MZ",
+            "name": "Mozambique",
+            "nativeName": "Moçambique",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/moz.svg"
+        },
+        {
+            "code": "NA",
+            "name": "Namibia",
+            "nativeName": "Namibia",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/nam.svg"
+        },
+        {
+            "code": "NC",
+            "name": "New Caledonia",
+            "nativeName": "Nouvelle-Calédonie",
+            "timezones": "UTC+11:00",
+            "flag": "https://restcountries.eu/data/ncl.svg"
+        },
+        {
+            "code": "NE",
+            "name": "Niger",
+            "nativeName": "Niger",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/ner.svg"
+        },
+        {
+            "code": "NF",
+            "name": "Norfolk Island",
+            "nativeName": "Norfolk Island",
+            "timezones": "UTC+11:30",
+            "flag": "https://restcountries.eu/data/nfk.svg"
+        },
+        {
+            "code": "NG",
+            "name": "Nigeria",
+            "nativeName": "Nigeria",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/nga.svg"
+        },
+        {
+            "code": "NI",
+            "name": "Nicaragua",
+            "nativeName": "Nicaragua",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/nic.svg"
+        },
+        {
+            "code": "NL",
+            "name": "Netherlands",
+            "nativeName": "Nederland",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/nld.svg"
+        },
+        {
+            "code": "NO",
+            "name": "Norway",
+            "nativeName": "Norge",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/nor.svg"
+        },
+        {
+            "code": "NP",
+            "name": "Nepal",
+            "nativeName": "नेपाल",
+            "timezones": "UTC+05:45",
+            "flag": "https://restcountries.eu/data/npl.svg"
+        },
+        {
+            "code": "NR",
+            "name": "Nauru",
+            "nativeName": "Nauru",
+            "timezones": "UTC+12:00",
+            "flag": "https://restcountries.eu/data/nru.svg"
+        },
+        {
+            "code": "NU",
+            "name": "Niue",
+            "nativeName": "Niuē",
+            "timezones": "UTC-11:00",
+            "flag": "https://restcountries.eu/data/niu.svg"
+        },
+        {
+            "code": "NZ",
+            "name": "New Zealand",
+            "nativeName": "New Zealand",
+            "timezones": "UTC-11:00",
+            "flag": "https://restcountries.eu/data/nzl.svg"
+        },
+        {
+            "code": "OM",
+            "name": "Oman",
+            "nativeName": "عمان",
+            "timezones": "UTC+04:00",
+            "flag": "https://restcountries.eu/data/omn.svg"
+        },
+        {
+            "code": "PA",
+            "name": "Panama",
+            "nativeName": "Panamá",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/pan.svg"
+        },
+        {
+            "code": "PE",
+            "name": "Peru",
+            "nativeName": "Perú",
+            "timezones": "UTC-05:00",
+            "flag": "https://restcountries.eu/data/per.svg"
+        },
+        {
+            "code": "PF",
+            "name": "French Polynesia",
+            "nativeName": "Polynésie française",
+            "timezones": "UTC-10:00",
+            "flag": "https://restcountries.eu/data/pyf.svg"
+        },
+        {
+            "code": "PG",
+            "name": "Papua New Guinea",
+            "nativeName": "Papua Niugini",
+            "timezones": "UTC+10:00",
+            "flag": "https://restcountries.eu/data/png.svg"
+        },
+        {
+            "code": "PH",
+            "name": "Philippines",
+            "nativeName": "Pilipinas",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/phl.svg"
+        },
+        {
+            "code": "PK",
+            "name": "Pakistan",
+            "nativeName": "Pakistan",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/pak.svg"
+        },
+        {
+            "code": "PL",
+            "name": "Poland",
+            "nativeName": "Polska",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/pol.svg"
+        },
+        {
+            "code": "PM",
+            "name": "Saint Pierre and Miquelon",
+            "nativeName": "Saint-Pierre-et-Miquelon",
+            "timezones": "UTC-03:00",
+            "flag": "https://restcountries.eu/data/spm.svg"
+        },
+        {
+            "code": "PN",
+            "name": "Pitcairn",
+            "nativeName": "Pitcairn Islands",
+            "timezones": "UTC-08:00",
+            "flag": "https://restcountries.eu/data/pcn.svg"
+        },
+        {
+            "code": "PR",
+            "name": "Puerto Rico",
+            "nativeName": "Puerto Rico",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/pri.svg"
+        },
+        {
+            "code": "PS",
+            "name": "Palestinian Territory, Occupied",
+            "nativeName": "فلسطين",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/pse.svg"
+        },
+        {
+            "code": "PT",
+            "name": "Portugal",
+            "nativeName": "Portugal",
+            "timezones": "UTC-01:00",
+            "flag": "https://restcountries.eu/data/prt.svg"
+        },
+        {
+            "code": "PW",
+            "name": "Palau",
+            "nativeName": "Palau",
+            "timezones": "UTC+09:00",
+            "flag": "https://restcountries.eu/data/plw.svg"
+        },
+        {
+            "code": "PY",
+            "name": "Paraguay",
+            "nativeName": "Paraguay",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/pry.svg"
+        },
+        {
+            "code": "QA",
+            "name": "Qatar",
+            "nativeName": "قطر",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/qat.svg"
+        },
+        {
+            "code": "RE",
+            "name": "Reunion",
+            "nativeName": "La Réunion",
+            "timezones": "UTC+04:00",
+            "flag": "https://restcountries.eu/data/reu.svg"
+        },
+        {
+            "code": "RO",
+            "name": "Romania",
+            "nativeName": "România",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/rou.svg"
+        },
+        {
+            "code": "RS",
+            "name": "Serbia",
+            "nativeName": "Србија",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/srb.svg"
+        },
+        {
+            "code": "RU",
+            "name": "Russian Federation",
+            "nativeName": "Россия",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/rus.svg"
+        },
+        {
+            "code": "RW",
+            "name": "Rwanda",
+            "nativeName": "Rwanda",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/rwa.svg"
+        },
+        {
+            "code": "SA",
+            "name": "Saudi Arabia",
+            "nativeName": "العربية السعودية",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/sau.svg"
+        },
+        {
+            "code": "SB",
+            "name": "Solomon Islands",
+            "nativeName": "Solomon Islands",
+            "timezones": "UTC+11:00",
+            "flag": "https://restcountries.eu/data/slb.svg"
+        },
+        {
+            "code": "SC",
+            "name": "Seychelles",
+            "nativeName": "Seychelles",
+            "timezones": "UTC+04:00",
+            "flag": "https://restcountries.eu/data/syc.svg"
+        },
+        {
+            "code": "SD",
+            "name": "Sudan",
+            "nativeName": "السودان",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/sdn.svg"
+        },
+        {
+            "code": "SE",
+            "name": "Sweden",
+            "nativeName": "Sverige",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/swe.svg"
+        },
+        {
+            "code": "SG",
+            "name": "Singapore",
+            "nativeName": "Singapore",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/sgp.svg"
+        },
+        {
+            "code": "SH",
+            "name": "Saint Helena",
+            "nativeName": "Saint Helena",
+            "timezones": "UTC+00:00",
+            "flag": "https://restcountries.eu/data/shn.svg"
+        },
+        {
+            "code": "SI",
+            "name": "Slovenia",
+            "nativeName": "Slovenija",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/svn.svg"
+        },
+        {
+            "code": "SJ",
+            "name": "Svalbard and Jan Mayen",
+            "nativeName": "Svalbard og Jan Mayen",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/sjm.svg"
+        },
+        {
+            "code": "SK",
+            "name": "Slovakia",
+            "nativeName": "Slovensko",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/svk.svg"
+        },
+        {
+            "code": "SL",
+            "name": "Sierra Leone",
+            "nativeName": "Sierra Leone",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/sle.svg"
+        },
+        {
+            "code": "SM",
+            "name": "San Marino",
+            "nativeName": "San Marino",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/smr.svg"
+        },
+        {
+            "code": "SN",
+            "name": "Senegal",
+            "nativeName": "Sénégal",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/sen.svg"
+        },
+        {
+            "code": "SO",
+            "name": "Somalia",
+            "nativeName": "Soomaaliya",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/som.svg"
+        },
+        {
+            "code": "SR",
+            "name": "Suriname",
+            "nativeName": "Suriname",
+            "timezones": "UTC-03:00",
+            "flag": "https://restcountries.eu/data/sur.svg"
+        },
+        {
+            "code": "SS",
+            "name": "South Sudan",
+            "nativeName": "South Sudan",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/ssd.svg"
+        },
+        {
+            "code": "ST",
+            "name": "Sao Tome and Principe",
+            "nativeName": "São Tomé e Príncipe",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/stp.svg"
+        },
+        {
+            "code": "SV",
+            "name": "El Salvador",
+            "nativeName": "El Salvador",
+            "timezones": "UTC-06:00",
+            "flag": "https://restcountries.eu/data/slv.svg"
+        },
+        {
+            "code": "SX",
+            "name": "Sint Maarten",
+            "nativeName": "Sint Maarten",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/sxm.svg"
+        },
+        {
+            "code": "SY",
+            "name": "Syrian Arab Republic",
+            "nativeName": "سوريا",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/syr.svg"
+        },
+        {
+            "code": "SZ",
+            "name": "Swaziland",
+            "nativeName": "Swaziland",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/swz.svg"
+        },
+        {
+            "code": "TC",
+            "name": "Turks and Caicos Islands",
+            "nativeName": "Turks and Caicos Islands",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/tca.svg"
+        },
+        {
+            "code": "TD",
+            "name": "Chad",
+            "nativeName": "Tchad",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/tcd.svg"
+        },
+        {
+            "code": "TF",
+            "name": "French Southern Territories",
+            "nativeName": "Territoire des Terres australes et antarctiques françaises",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/atf.svg"
+        },
+        {
+            "code": "TG",
+            "name": "Togo",
+            "nativeName": "Togo",
+            "timezones": "UTC",
+            "flag": "https://restcountries.eu/data/tgo.svg"
+        },
+        {
+            "code": "TH",
+            "name": "Thailand",
+            "nativeName": "ประเทศไทย",
+            "timezones": "UTC+07:00",
+            "flag": "https://restcountries.eu/data/tha.svg"
+        },
+        {
+            "code": "TJ",
+            "name": "Tajikistan",
+            "nativeName": "Тоҷикистон",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/tjk.svg"
+        },
+        {
+            "code": "TK",
+            "name": "Tokelau",
+            "nativeName": "Tokelau",
+            "timezones": "UTC+13:00",
+            "flag": "https://restcountries.eu/data/tkl.svg"
+        },
+        {
+            "code": "TL",
+            "name": "Timor-Leste",
+            "nativeName": "Timor-Leste",
+            "timezones": "UTC+09:00",
+            "flag": "https://restcountries.eu/data/tls.svg"
+        },
+        {
+            "code": "TM",
+            "name": "Turkmenistan",
+            "nativeName": "Türkmenistan",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/tkm.svg"
+        },
+        {
+            "code": "TN",
+            "name": "Tunisia",
+            "nativeName": "تونس",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/tun.svg"
+        },
+        {
+            "code": "TO",
+            "name": "Tonga",
+            "nativeName": "Tonga",
+            "timezones": "UTC+13:00",
+            "flag": "https://restcountries.eu/data/ton.svg"
+        },
+        {
+            "code": "TR",
+            "name": "Turkey",
+            "nativeName": "Türkiye",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/tur.svg"
+        },
+        {
+            "code": "TT",
+            "name": "Trinidad and Tobago",
+            "nativeName": "Trinidad and Tobago",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/tto.svg"
+        },
+        {
+            "code": "TV",
+            "name": "Tuvalu",
+            "nativeName": "Tuvalu",
+            "timezones": "UTC+12:00",
+            "flag": "https://restcountries.eu/data/tuv.svg"
+        },
+        {
+            "code": "TW",
+            "name": "Taiwan, Province of China",
+            "nativeName": "臺灣",
+            "timezones": "UTC+08:00",
+            "flag": "https://restcountries.eu/data/twn.svg"
+        },
+        {
+            "code": "TZ",
+            "name": "Tanzania, United Republic of",
+            "nativeName": "Tanzania",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/tza.svg"
+        },
+        {
+            "code": "UA",
+            "name": "Ukraine",
+            "nativeName": "Україна",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/ukr.svg"
+        },
+        {
+            "code": "UG",
+            "name": "Uganda",
+            "nativeName": "Uganda",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/uga.svg"
+        },
+        {
+            "code": "UM",
+            "name": "United States Minor Outlying Islands",
+            "nativeName": "United States Minor Outlying Islands",
+            "timezones": "UTC-11:00",
+            "flag": "https://restcountries.eu/data/umi.svg"
+        },
+        {
+            "code": "US",
+            "name": "United States",
+            "nativeName": "United States",
+            "timezones": "UTC-12:00",
+            "flag": "https://restcountries.eu/data/usa.svg"
+        },
+        {
+            "code": "UY",
+            "name": "Uruguay",
+            "nativeName": "Uruguay",
+            "timezones": "UTC-03:00",
+            "flag": "https://restcountries.eu/data/ury.svg"
+        },
+        {
+            "code": "UZ",
+            "name": "Uzbekistan",
+            "nativeName": "O‘zbekiston",
+            "timezones": "UTC+05:00",
+            "flag": "https://restcountries.eu/data/uzb.svg"
+        },
+        {
+            "code": "VA",
+            "name": "Holy See (Vatican City State)",
+            "nativeName": "Sancta Sedes",
+            "timezones": "UTC+01:00",
+            "flag": "https://restcountries.eu/data/vat.svg"
+        },
+        {
+            "code": "VC",
+            "name": "Saint Vincent and the Grenadines",
+            "nativeName": "Saint Vincent and the Grenadines",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/vct.svg"
+        },
+        {
+            "code": "VE",
+            "name": "Venezuela",
+            "nativeName": "Venezuela",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/ven.svg"
+        },
+        {
+            "code": "VG",
+            "name": "Virgin Islands, British",
+            "nativeName": "British Virgin Islands",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/vgb.svg"
+        },
+        {
+            "code": "VI",
+            "name": "Virgin Islands, U.s.",
+            "nativeName": "Virgin Islands of the United States",
+            "timezones": "UTC-04:00",
+            "flag": "https://restcountries.eu/data/vir.svg"
+        },
+        {
+            "code": "VN",
+            "name": "Viet Nam",
+            "nativeName": "Việt Nam",
+            "timezones": "UTC+07:00",
+            "flag": "https://restcountries.eu/data/vnm.svg"
+        },
+        {
+            "code": "VU",
+            "name": "Vanuatu",
+            "nativeName": "Vanuatu",
+            "timezones": "UTC+11:00",
+            "flag": "https://restcountries.eu/data/vut.svg"
+        },
+        {
+            "code": "WF",
+            "name": "Wallis and Futuna",
+            "nativeName": "Wallis et Futuna",
+            "timezones": "UTC+12:00",
+            "flag": "https://restcountries.eu/data/wlf.svg"
+        },
+        {
+            "code": "WS",
+            "name": "Samoa",
+            "nativeName": "Samoa",
+            "timezones": "UTC+13:00",
+            "flag": "https://restcountries.eu/data/wsm.svg"
+        },
+        {
+            "code": "YE",
+            "name": "Yemen",
+            "nativeName": "اليَمَن",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/yem.svg"
+        },
+        {
+            "code": "YT",
+            "name": "Mayotte",
+            "nativeName": "Mayotte",
+            "timezones": "UTC+03:00",
+            "flag": "https://restcountries.eu/data/myt.svg"
+        },
+        {
+            "code": "ZA",
+            "name": "South Africa",
+            "nativeName": "South Africa",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/zaf.svg"
+        },
+        {
+            "code": "ZM",
+            "name": "Zambia",
+            "nativeName": "Zambia",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/zmb.svg"
+        },
+        {
+            "code": "ZW",
+            "name": "Zimbabwe",
+            "nativeName": "Zimbabwe",
+            "timezones": "UTC+02:00",
+            "flag": "https://restcountries.eu/data/zwe.svg"
+        }
+    ]
+}
