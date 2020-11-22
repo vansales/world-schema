@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CM",
+        "name": "Cameroon",
+        "nativeName": "Cameroon",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cmr.svg",
+        "state": []
+    }
+}

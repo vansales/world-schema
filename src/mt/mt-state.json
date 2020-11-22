@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MT",
+        "name": "Malta",
+        "nativeName": "Malta",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mlt.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NI",
+        "name": "Nicaragua",
+        "nativeName": "Nicaragua",
+        "timezones": "UTC-06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/nic.svg",
+        "state": []
+    }
+}

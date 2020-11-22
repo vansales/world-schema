@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BI",
+        "name": "Burundi",
+        "nativeName": "Burundi",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bdi.svg",
+        "state": []
+    }
+}

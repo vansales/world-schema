@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "HK",
+        "name": "Hong Kong",
+        "nativeName": "香港",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/hkg.svg",
+        "state": []
+    }
+}

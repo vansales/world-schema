@@ -1,0 +1,155 @@
+{
+    "country": {
+        "code": "AR",
+        "name": "Argentina",
+        "nativeName": "Argentina",
+        "timezones": "UTC-03:00",
+        "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/35\/Flag_of_Argentina_%283-2%29.svg",
+        "state": [
+            {
+                "code": "A",
+                "name": "Salta",
+                "nativeName": "Salta",
+                "countryCode": "AR"
+            },
+            {
+                "code": "B",
+                "name": "Buenos Aires",
+                "nativeName": "Buenos Aires",
+                "countryCode": "AR"
+            },
+            {
+                "code": "C",
+                "name": "Ciudad Autónoma de Buenos Aires",
+                "nativeName": "Ciudad Autónoma de Buenos Aires",
+                "countryCode": "AR"
+            },
+            {
+                "code": "D",
+                "name": "San Luis",
+                "nativeName": "San Luis",
+                "countryCode": "AR"
+            },
+            {
+                "code": "E",
+                "name": "Entre Ríos",
+                "nativeName": "Entre Ríos",
+                "countryCode": "AR"
+            },
+            {
+                "code": "F",
+                "name": "La Rioja",
+                "nativeName": "La Rioja",
+                "countryCode": "AR"
+            },
+            {
+                "code": "G",
+                "name": "Santiago del Estero",
+                "nativeName": "Santiago del Estero",
+                "countryCode": "AR"
+            },
+            {
+                "code": "H",
+                "name": "Chaco",
+                "nativeName": "Chaco",
+                "countryCode": "AR"
+            },
+            {
+                "code": "J",
+                "name": "San Juan",
+                "nativeName": "San Juan",
+                "countryCode": "AR"
+            },
+            {
+                "code": "K",
+                "name": "Catamarca",
+                "nativeName": "Catamarca",
+                "countryCode": "AR"
+            },
+            {
+                "code": "L",
+                "name": "La Pampa",
+                "nativeName": "La Pampa",
+                "countryCode": "AR"
+            },
+            {
+                "code": "M",
+                "name": "Mendoza",
+                "nativeName": "Mendoza",
+                "countryCode": "AR"
+            },
+            {
+                "code": "N",
+                "name": "Misiones",
+                "nativeName": "Misiones",
+                "countryCode": "AR"
+            },
+            {
+                "code": "P",
+                "name": "Formosa",
+                "nativeName": "Formosa",
+                "countryCode": "AR"
+            },
+            {
+                "code": "Q",
+                "name": "Neuquén",
+                "nativeName": "Neuquén",
+                "countryCode": "AR"
+            },
+            {
+                "code": "R",
+                "name": "Río Negro",
+                "nativeName": "Río Negro",
+                "countryCode": "AR"
+            },
+            {
+                "code": "S",
+                "name": "Santa Fe",
+                "nativeName": "Santa Fe",
+                "countryCode": "AR"
+            },
+            {
+                "code": "T",
+                "name": "Tucumán",
+                "nativeName": "Tucumán",
+                "countryCode": "AR"
+            },
+            {
+                "code": "U",
+                "name": "Chubut",
+                "nativeName": "Chubut",
+                "countryCode": "AR"
+            },
+            {
+                "code": "V",
+                "name": "Tierra del Fuego",
+                "nativeName": "Tierra del Fuego",
+                "countryCode": "AR"
+            },
+            {
+                "code": "W",
+                "name": "Corrientes",
+                "nativeName": "Corrientes",
+                "countryCode": "AR"
+            },
+            {
+                "code": "X",
+                "name": "Córdoba",
+                "nativeName": "Córdoba",
+                "countryCode": "AR"
+            },
+            {
+                "code": "Y",
+                "name": "Jujuy",
+                "nativeName": "Jujuy",
+                "countryCode": "AR"
+            },
+            {
+                "code": "Z",
+                "name": "Santa Cruz",
+                "nativeName": "Santa Cruz",
+                "countryCode": "AR"
+            }
+        ]
+    }
+}

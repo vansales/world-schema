@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LC",
+        "name": "Saint Lucia",
+        "nativeName": "Saint Lucia",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/lca.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GM",
+        "name": "Gambia",
+        "nativeName": "Gambia",
+        "timezones": "UTC+00:00",
+        "flag": "https:\/\/restcountries.eu\/data\/gmb.svg",
+        "state": []
+    }
+}

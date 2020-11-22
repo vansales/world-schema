@@ -1,0 +1,77 @@
+{
+    "country": {
+        "code": "AM",
+        "name": "Armenia",
+        "nativeName": "Հայաստան",
+        "timezones": "UTC+04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/arm.svg",
+        "state": [
+            {
+                "code": "AG",
+                "name": "Aragac̣otn",
+                "nativeName": "Aragac̣otn",
+                "countryCode": "AM"
+            },
+            {
+                "code": "AR",
+                "name": "Ararat",
+                "nativeName": "Ararat",
+                "countryCode": "AM"
+            },
+            {
+                "code": "AV",
+                "name": "Armavir",
+                "nativeName": "Armavir",
+                "countryCode": "AM"
+            },
+            {
+                "code": "ER",
+                "name": "Erevan",
+                "nativeName": "Erevan",
+                "countryCode": "AM"
+            },
+            {
+                "code": "GR",
+                "name": "Geġark'unik'",
+                "nativeName": "Geġark'unik'",
+                "countryCode": "AM"
+            },
+            {
+                "code": "KT",
+                "name": "Kotayk",
+                "nativeName": "Kotayk",
+                "countryCode": "AM"
+            },
+            {
+                "code": "LO",
+                "name": "Loṙy",
+                "nativeName": "Loṙy",
+                "countryCode": "AM"
+            },
+            {
+                "code": "SH",
+                "name": "Širak",
+                "nativeName": "Širak",
+                "countryCode": "AM"
+            },
+            {
+                "code": "SU",
+                "name": "Syunik",
+                "nativeName": "Syunik",
+                "countryCode": "AM"
+            },
+            {
+                "code": "TV",
+                "name": "Tavuš",
+                "nativeName": "Tavuš",
+                "countryCode": "AM"
+            },
+            {
+                "code": "VD",
+                "name": "Vayoc Jor",
+                "nativeName": "Vayoc Jor",
+                "countryCode": "AM"
+            }
+        ]
+    }
+}

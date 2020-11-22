@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "DK",
+        "name": "Denmark",
+        "nativeName": "Danmark",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/dnk.svg",
+        "state": []
+    }
+}

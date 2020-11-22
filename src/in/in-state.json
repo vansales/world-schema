@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "IN",
+        "name": "India",
+        "nativeName": "भारत",
+        "timezones": "UTC+05:30",
+        "flag": "https:\/\/restcountries.eu\/data\/ind.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "OM",
+        "name": "Oman",
+        "nativeName": "عمان",
+        "timezones": "UTC+04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/omn.svg",
+        "state": []
+    }
+}

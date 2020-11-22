@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BZ",
+        "name": "Belize",
+        "nativeName": "Belize",
+        "timezones": "UTC-06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/blz.svg",
+        "state": []
+    }
+}

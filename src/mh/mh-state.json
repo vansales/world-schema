@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MH",
+        "name": "Marshall Islands",
+        "nativeName": "M̧ajeļ",
+        "timezones": "UTC+12:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mhl.svg",
+        "state": []
+    }
+}

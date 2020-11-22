@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SJ",
+        "name": "Svalbard and Jan Mayen",
+        "nativeName": "Svalbard og Jan Mayen",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/sjm.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "nativeName": "Brasil",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bra.svg",
+        "state": [
+            {
+                "code": "AC",
+                "name": "Acre",
+                "nativeName": "Acre",
+                "countryCode": "BR"
+            },
+            {
+                "code": "AL",
+                "name": "Alagoas",
+                "nativeName": "Alagoas",
+                "countryCode": "BR"
+            },
+            {
+                "code": "AM",
+                "name": "Amazonas",
+                "nativeName": "Amazonas",
+                "countryCode": "BR"
+            },
+            {
+                "code": "AP",
+                "name": "Amapá",
+                "nativeName": "Amapá",
+                "countryCode": "BR"
+            },
+            {
+                "code": "BA",
+                "name": "Bahia",
+                "nativeName": "Bahia",
+                "countryCode": "BR"
+            },
+            {
+                "code": "CE",
+                "name": "Ceará",
+                "nativeName": "Ceará",
+                "countryCode": "BR"
+            },
+            {
+                "code": "DF",
+                "name": "Distrito Federal",
+                "nativeName": "Distrito Federal",
+                "countryCode": "BR"
+            },
+            {
+                "code": "ES",
+                "name": "Espírito Santo",
+                "nativeName": "Espírito Santo",
+                "countryCode": "BR"
+            },
+            {
+                "code": "GO",
+                "name": "Goiás",
+                "nativeName": "Goiás",
+                "countryCode": "BR"
+            },
+            {
+                "code": "MA",
+                "name": "Maranhão",
+                "nativeName": "Maranhão",
+                "countryCode": "BR"
+            },
+            {
+                "code": "MG",
+                "name": "Minas Gerais",
+                "nativeName": "Minas Gerais",
+                "countryCode": "BR"
+            },
+            {
+                "code": "MS",
+                "name": "Mato Grosso do Sul",
+                "nativeName": "Mato Grosso do Sul",
+                "countryCode": "BR"
+            },
+            {
+                "code": "MT",
+                "name": "Mato Grosso",
+                "nativeName": "Mato Grosso",
+                "countryCode": "BR"
+            },
+            {
+                "code": "PA",
+                "name": "Pará",
+                "nativeName": "Pará",
+                "countryCode": "BR"
+            },
+            {
+                "code": "PB",
+                "name": "Paraíba",
+                "nativeName": "Paraíba",
+                "countryCode": "BR"
+            },
+            {
+                "code": "PE",
+                "name": "Pernambuco",
+                "nativeName": "Pernambuco",
+                "countryCode": "BR"
+            },
+            {
+                "code": "PI",
+                "name": "Piauí",
+                "nativeName": "Piauí",
+                "countryCode": "BR"
+            },
+            {
+                "code": "PR",
+                "name": "Paraná",
+                "nativeName": "Paraná",
+                "countryCode": "BR"
+            },
+            {
+                "code": "RJ",
+                "name": "Rio de Janeiro",
+                "nativeName": "Rio de Janeiro",
+                "countryCode": "BR"
+            },
+            {
+                "code": "RN",
+                "name": "Rio Grande do Norte",
+                "nativeName": "Rio Grande do Norte",
+                "countryCode": "BR"
+            },
+            {
+                "code": "RO",
+                "name": "Rondônia",
+                "nativeName": "Rondônia",
+                "countryCode": "BR"
+            },
+            {
+                "code": "RR",
+                "name": "Roraima",
+                "nativeName": "Roraima",
+                "countryCode": "BR"
+            },
+            {
+                "code": "RS",
+                "name": "Rio Grande do Sul",
+                "nativeName": "Rio Grande do Sul",
+                "countryCode": "BR"
+            },
+            {
+                "code": "SC",
+                "name": "Santa Catarina",
+                "nativeName": "Santa Catarina",
+                "countryCode": "BR"
+            },
+            {
+                "code": "SE",
+                "name": "Sergipe",
+                "nativeName": "Sergipe",
+                "countryCode": "BR"
+            },
+            {
+                "code": "SP",
+                "name": "São Paulo",
+                "nativeName": "São Paulo",
+                "countryCode": "BR"
+            },
+            {
+                "code": "TO",
+                "name": "Tocantins",
+                "nativeName": "Tocantins",
+                "countryCode": "BR"
+            }
+        ]
+    }
+}

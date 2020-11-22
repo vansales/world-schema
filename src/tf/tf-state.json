@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TF",
+        "name": "French Southern Territories",
+        "nativeName": "Territoire des Terres australes et antarctiques françaises",
+        "timezones": "UTC+05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/atf.svg",
+        "state": []
+    }
+}

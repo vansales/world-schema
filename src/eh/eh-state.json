@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "EH",
+        "name": "Western Sahara",
+        "nativeName": "الصحراء الغربية",
+        "timezones": "UTC+00:00",
+        "flag": "https:\/\/restcountries.eu\/data\/esh.svg",
+        "state": []
+    }
+}

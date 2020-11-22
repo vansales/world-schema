@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BA",
+        "name": "Bosnia and Herzegovina",
+        "nativeName": "Bosna i Hercegovina",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bih.svg",
+        "state": []
+    }
+}

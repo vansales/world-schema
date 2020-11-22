@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CZ",
+        "name": "Czech Republic",
+        "nativeName": "Česká republika",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cze.svg",
+        "state": []
+    }
+}

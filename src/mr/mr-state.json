@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MR",
+        "name": "Mauritania",
+        "nativeName": "موريتانيا",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/mrt.svg",
+        "state": []
+    }
+}

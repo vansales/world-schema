@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PE",
+        "name": "Peru",
+        "nativeName": "Perú",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/per.svg",
+        "state": []
+    }
+}

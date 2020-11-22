@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "ES",
+        "name": "Spain",
+        "nativeName": "España",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/esp.svg",
+        "state": []
+    }
+}

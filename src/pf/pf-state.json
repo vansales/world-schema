@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PF",
+        "name": "French Polynesia",
+        "nativeName": "Polynésie française",
+        "timezones": "UTC-10:00",
+        "flag": "https:\/\/restcountries.eu\/data\/pyf.svg",
+        "state": []
+    }
+}

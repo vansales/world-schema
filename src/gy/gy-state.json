@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GY",
+        "name": "Guyana",
+        "nativeName": "Guyana",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/guy.svg",
+        "state": []
+    }
+}

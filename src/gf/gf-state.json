@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GF",
+        "name": "French Guiana",
+        "nativeName": "Guyane française",
+        "timezones": "UTC-03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/guf.svg",
+        "state": []
+    }
+}

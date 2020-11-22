@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CH",
+        "name": "Switzerland",
+        "nativeName": "Schweiz",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/che.svg",
+        "state": []
+    }
+}

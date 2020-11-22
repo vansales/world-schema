@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LS",
+        "name": "Lesotho",
+        "nativeName": "Lesotho",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/lso.svg",
+        "state": []
+    }
+}

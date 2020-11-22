@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "AI",
+        "name": "Anguilla",
+        "nativeName": "Anguilla",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/aia.svg",
+        "state": []
+    }
+}

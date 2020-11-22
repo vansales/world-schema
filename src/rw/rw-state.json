@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "RW",
+        "name": "Rwanda",
+        "nativeName": "Rwanda",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/rwa.svg",
+        "state": []
+    }
+}

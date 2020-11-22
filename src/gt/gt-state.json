@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GT",
+        "name": "Guatemala",
+        "nativeName": "Guatemala",
+        "timezones": "UTC-06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/gtm.svg",
+        "state": []
+    }
+}

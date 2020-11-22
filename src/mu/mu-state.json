@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MU",
+        "name": "Mauritius",
+        "nativeName": "Maurice",
+        "timezones": "UTC+04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mus.svg",
+        "state": []
+    }
+}

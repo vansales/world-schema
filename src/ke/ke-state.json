@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KE",
+        "name": "Kenya",
+        "nativeName": "Kenya",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ken.svg",
+        "state": []
+    }
+}

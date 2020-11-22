@@ -1,0 +1,53 @@
+{
+    "country": {
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "nativeName": "دولة الإمارات العربية المتحدة",
+        "timezones": "UTC+04",
+        "flag": "https:\/\/restcountries.eu\/data\/are.svg",
+        "state": [
+            {
+                "code": "AJ",
+                "name": "Ajmān",
+                "nativeName": "Ajmān",
+                "countryCode": "AE"
+            },
+            {
+                "code": "AZ",
+                "name": "Abū Z̧aby",
+                "nativeName": "Abū Z̧aby",
+                "countryCode": "AE"
+            },
+            {
+                "code": "DU",
+                "name": "Dubayy",
+                "nativeName": "Dubayy",
+                "countryCode": "AE"
+            },
+            {
+                "code": "FU",
+                "name": "Al Fujayrah",
+                "nativeName": "Al Fujayrah",
+                "countryCode": "AE"
+            },
+            {
+                "code": "RK",
+                "name": "Ra’s al Khaymah",
+                "nativeName": "Ra’s al Khaymah",
+                "countryCode": "AE"
+            },
+            {
+                "code": "SH",
+                "name": "Ash Shāriqah",
+                "nativeName": "Ash Shāriqah",
+                "countryCode": "AE"
+            },
+            {
+                "code": "UQ",
+                "name": "Umm al Qaywayn",
+                "nativeName": "Umm al Qaywayn",
+                "countryCode": "AE"
+            }
+        ]
+    }
+}

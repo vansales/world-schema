@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "UZ",
+        "name": "Uzbekistan",
+        "nativeName": "O‘zbekiston",
+        "timezones": "UTC+05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/uzb.svg",
+        "state": []
+    }
+}

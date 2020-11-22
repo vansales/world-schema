@@ -1,0 +1,119 @@
+{
+    "country": {
+        "code": "AO",
+        "name": "Angola",
+        "nativeName": "Angola",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ago.svg",
+        "state": [
+            {
+                "code": "BGO",
+                "name": "Bengo",
+                "nativeName": "Bengo",
+                "countryCode": "AO"
+            },
+            {
+                "code": "BGU",
+                "name": "Benguela",
+                "nativeName": "Benguela",
+                "countryCode": "AO"
+            },
+            {
+                "code": "BIE",
+                "name": "Bié",
+                "nativeName": "Bié",
+                "countryCode": "AO"
+            },
+            {
+                "code": "CAB",
+                "name": "Cabinda",
+                "nativeName": "Cabinda",
+                "countryCode": "AO"
+            },
+            {
+                "code": "CCU",
+                "name": "Cuando-Cubango",
+                "nativeName": "Cuando-Cubango",
+                "countryCode": "AO"
+            },
+            {
+                "code": "CNN",
+                "name": "Cunene",
+                "nativeName": "Cunene",
+                "countryCode": "AO"
+            },
+            {
+                "code": "CNO",
+                "name": "Cuanza Norte",
+                "nativeName": "Cuanza Norte",
+                "countryCode": "AO"
+            },
+            {
+                "code": "CUS",
+                "name": "Cuanza Sul",
+                "nativeName": "Cuanza Sul",
+                "countryCode": "AO"
+            },
+            {
+                "code": "HUA",
+                "name": "Huambo",
+                "nativeName": "Huambo",
+                "countryCode": "AO"
+            },
+            {
+                "code": "HUI",
+                "name": "Huíla",
+                "nativeName": "Huíla",
+                "countryCode": "AO"
+            },
+            {
+                "code": "LNO",
+                "name": "Lunda Norte",
+                "nativeName": "Lunda Norte",
+                "countryCode": "AO"
+            },
+            {
+                "code": "LSU",
+                "name": "Lunda Sul",
+                "nativeName": "Lunda Sul",
+                "countryCode": "AO"
+            },
+            {
+                "code": "LUA",
+                "name": "Luanda",
+                "nativeName": "Luanda",
+                "countryCode": "AO"
+            },
+            {
+                "code": "MAL",
+                "name": "Malange",
+                "nativeName": "Malange",
+                "countryCode": "AO"
+            },
+            {
+                "code": "MOX",
+                "name": "Moxico",
+                "nativeName": "Moxico",
+                "countryCode": "AO"
+            },
+            {
+                "code": "NAM",
+                "name": "Namibe",
+                "nativeName": "Namibe",
+                "countryCode": "AO"
+            },
+            {
+                "code": "UIG",
+                "name": "Uíge",
+                "nativeName": "Uíge",
+                "countryCode": "AO"
+            },
+            {
+                "code": "ZAI",
+                "name": "Zaire",
+                "nativeName": "Zaire",
+                "countryCode": "AO"
+            }
+        ]
+    }
+}

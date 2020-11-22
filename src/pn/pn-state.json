@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PN",
+        "name": "Pitcairn",
+        "nativeName": "Pitcairn Islands",
+        "timezones": "UTC-08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/pcn.svg",
+        "state": []
+    }
+}

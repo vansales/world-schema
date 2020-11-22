@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TD",
+        "name": "Chad",
+        "nativeName": "Tchad",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tcd.svg",
+        "state": []
+    }
+}

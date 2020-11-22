@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SK",
+        "name": "Slovakia",
+        "nativeName": "Slovensko",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/svk.svg",
+        "state": []
+    }
+}

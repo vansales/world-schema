@@ -1,0 +1,227 @@
+{
+    "country": {
+        "code": "AL",
+        "name": "Albania",
+        "nativeName": "Shqipëria",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/alb.svg",
+        "state": [
+            {
+                "code": "BR",
+                "name": "Berat",
+                "nativeName": "Berat",
+                "countryCode": "AL"
+            },
+            {
+                "code": "BU",
+                "name": "Bulqizë",
+                "nativeName": "Bulqizë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "DI",
+                "name": "Dibër",
+                "nativeName": "Dibër",
+                "countryCode": "AL"
+            },
+            {
+                "code": "DL",
+                "name": "Delvinë",
+                "nativeName": "Delvinë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "DR",
+                "name": "Durrës",
+                "nativeName": "Durrës",
+                "countryCode": "AL"
+            },
+            {
+                "code": "DV",
+                "name": "Devoll",
+                "nativeName": "Devoll",
+                "countryCode": "AL"
+            },
+            {
+                "code": "EL",
+                "name": "Elbasan",
+                "nativeName": "Elbasan",
+                "countryCode": "AL"
+            },
+            {
+                "code": "ER",
+                "name": "Kolonjë",
+                "nativeName": "Kolonjë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "FR",
+                "name": "Fier",
+                "nativeName": "Fier",
+                "countryCode": "AL"
+            },
+            {
+                "code": "GJ",
+                "name": "Gjirokastër",
+                "nativeName": "Gjirokastër",
+                "countryCode": "AL"
+            },
+            {
+                "code": "GR",
+                "name": "Gramsh",
+                "nativeName": "Gramsh",
+                "countryCode": "AL"
+            },
+            {
+                "code": "HA",
+                "name": "Has",
+                "nativeName": "Has",
+                "countryCode": "AL"
+            },
+            {
+                "code": "KA",
+                "name": "Kavajë",
+                "nativeName": "Kavajë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "KB",
+                "name": "Kurbin",
+                "nativeName": "Kurbin",
+                "countryCode": "AL"
+            },
+            {
+                "code": "KC",
+                "name": "Kuçovë",
+                "nativeName": "Kuçovë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "KO",
+                "name": "Korçë",
+                "nativeName": "Korçë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "KR",
+                "name": "Krujë",
+                "nativeName": "Krujë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "KU",
+                "name": "Kukës",
+                "nativeName": "Kukës",
+                "countryCode": "AL"
+            },
+            {
+                "code": "LB",
+                "name": "Librazhd",
+                "nativeName": "Librazhd",
+                "countryCode": "AL"
+            },
+            {
+                "code": "LE",
+                "name": "Lezhë",
+                "nativeName": "Lezhë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "LU",
+                "name": "Lushnjë",
+                "nativeName": "Lushnjë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "MK",
+                "name": "Mallakastër",
+                "nativeName": "Mallakastër",
+                "countryCode": "AL"
+            },
+            {
+                "code": "MM",
+                "name": "Malësi e Madhe",
+                "nativeName": "Malësi e Madhe",
+                "countryCode": "AL"
+            },
+            {
+                "code": "MR",
+                "name": "Mirditë",
+                "nativeName": "Mirditë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "MT",
+                "name": "Mat",
+                "nativeName": "Mat",
+                "countryCode": "AL"
+            },
+            {
+                "code": "PG",
+                "name": "Pogradec",
+                "nativeName": "Pogradec",
+                "countryCode": "AL"
+            },
+            {
+                "code": "PQ",
+                "name": "Peqin",
+                "nativeName": "Peqin",
+                "countryCode": "AL"
+            },
+            {
+                "code": "PR",
+                "name": "Përmet",
+                "nativeName": "Përmet",
+                "countryCode": "AL"
+            },
+            {
+                "code": "PU",
+                "name": "Pukë",
+                "nativeName": "Pukë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "SH",
+                "name": "Shkodër",
+                "nativeName": "Shkodër",
+                "countryCode": "AL"
+            },
+            {
+                "code": "SK",
+                "name": "Skrapar",
+                "nativeName": "Skrapar",
+                "countryCode": "AL"
+            },
+            {
+                "code": "SR",
+                "name": "Sarandë",
+                "nativeName": "Sarandë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "TE",
+                "name": "Tepelenë",
+                "nativeName": "Tepelenë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "TP",
+                "name": "Tropojë",
+                "nativeName": "Tropojë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "TR",
+                "name": "Tiranë",
+                "nativeName": "Tiranë",
+                "countryCode": "AL"
+            },
+            {
+                "code": "VL",
+                "name": "Vlorë",
+                "nativeName": "Vlorë",
+                "countryCode": "AL"
+            }
+        ]
+    }
+}

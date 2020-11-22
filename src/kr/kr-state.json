@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KR",
+        "name": "Korea, Republic of",
+        "nativeName": "대한민국",
+        "timezones": "UTC+09:00",
+        "flag": "https:\/\/restcountries.eu\/data\/kor.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "IT",
+        "name": "Italy",
+        "nativeName": "Italia",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ita.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PG",
+        "name": "Papua New Guinea",
+        "nativeName": "Papua Niugini",
+        "timezones": "UTC+10:00",
+        "flag": "https:\/\/restcountries.eu\/data\/png.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LT",
+        "name": "Lithuania",
+        "nativeName": "Lietuva",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ltu.svg",
+        "state": []
+    }
+}

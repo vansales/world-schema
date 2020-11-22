@@ -1,0 +1,53 @@
+{
+    "country": {
+        "code": "AD",
+        "name": "Andorra",
+        "nativeName": "Andorra",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/and.svg",
+        "state": [
+            {
+                "code": "02",
+                "name": "Canillo",
+                "nativeName": "Canillo",
+                "countryCode": "AD"
+            },
+            {
+                "code": "03",
+                "name": "Encamp",
+                "nativeName": "Encamp",
+                "countryCode": "AD"
+            },
+            {
+                "code": "04",
+                "name": "La Massana",
+                "nativeName": "La Massana",
+                "countryCode": "AD"
+            },
+            {
+                "code": "05",
+                "name": "Ordino",
+                "nativeName": "Ordino",
+                "countryCode": "AD"
+            },
+            {
+                "code": "06",
+                "name": "Sant Julià de Lòria",
+                "nativeName": "Sant Julià de Lòria",
+                "countryCode": "AD"
+            },
+            {
+                "code": "07",
+                "name": "Andorra la Vella",
+                "nativeName": "Andorra la Vella",
+                "countryCode": "AD"
+            },
+            {
+                "code": "08",
+                "name": "Escaldes-Engordany",
+                "nativeName": "Escaldes-Engordany",
+                "countryCode": "AD"
+            }
+        ]
+    }
+}

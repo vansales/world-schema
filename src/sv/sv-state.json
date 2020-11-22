@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SV",
+        "name": "El Salvador",
+        "nativeName": "El Salvador",
+        "timezones": "UTC-06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/slv.svg",
+        "state": []
+    }
+}

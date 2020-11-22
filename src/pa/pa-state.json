@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PA",
+        "name": "Panama",
+        "nativeName": "Panamá",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/pan.svg",
+        "state": []
+    }
+}

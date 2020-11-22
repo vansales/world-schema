@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KP",
+        "name": "Korea, Democratic People's Republic of",
+        "nativeName": "북한",
+        "timezones": "UTC+09:00",
+        "flag": "https:\/\/restcountries.eu\/data\/prk.svg",
+        "state": []
+    }
+}

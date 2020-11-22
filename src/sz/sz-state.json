@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SZ",
+        "name": "Swaziland",
+        "nativeName": "Swaziland",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/swz.svg",
+        "state": []
+    }
+}

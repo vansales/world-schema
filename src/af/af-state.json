@@ -1,0 +1,215 @@
+{
+    "country": {
+        "code": "AF",
+        "name": "Afghanistan",
+        "nativeName": "افغانستان",
+        "timezones": "UTC+04:30",
+        "flag": "https:\/\/restcountries.eu\/data\/afg.svg",
+        "state": [
+            {
+                "code": "BAL",
+                "name": "Balkh",
+                "nativeName": "Balkh",
+                "countryCode": "AF"
+            },
+            {
+                "code": "BAM",
+                "name": "Bāmyān",
+                "nativeName": "Bāmyān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "BDG",
+                "name": "Bādghīs",
+                "nativeName": "Bādghīs",
+                "countryCode": "AF"
+            },
+            {
+                "code": "BDS",
+                "name": "Badakhshān",
+                "nativeName": "Badakhshān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "BGL",
+                "name": "Baghlān",
+                "nativeName": "Baghlān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "DAY",
+                "name": "Dāykundī",
+                "nativeName": "Dāykundī",
+                "countryCode": "AF"
+            },
+            {
+                "code": "FRA",
+                "name": "Farāh",
+                "nativeName": "Farāh",
+                "countryCode": "AF"
+            },
+            {
+                "code": "FYB",
+                "name": "Fāryāb",
+                "nativeName": "Fāryāb",
+                "countryCode": "AF"
+            },
+            {
+                "code": "GHA",
+                "name": "Ghaznī",
+                "nativeName": "Ghaznī",
+                "countryCode": "AF"
+            },
+            {
+                "code": "GHO",
+                "name": "Ghōr",
+                "nativeName": "Ghōr",
+                "countryCode": "AF"
+            },
+            {
+                "code": "HEL",
+                "name": "Helmand",
+                "nativeName": "Helmand",
+                "countryCode": "AF"
+            },
+            {
+                "code": "HER",
+                "name": "Herāt",
+                "nativeName": "Herāt",
+                "countryCode": "AF"
+            },
+            {
+                "code": "JOW",
+                "name": "Jowzjān",
+                "nativeName": "Jowzjān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "KAB",
+                "name": "Kābul",
+                "nativeName": "Kābul",
+                "countryCode": "AF"
+            },
+            {
+                "code": "KAN",
+                "name": "Kandahār",
+                "nativeName": "Kandahār",
+                "countryCode": "AF"
+            },
+            {
+                "code": "KAP",
+                "name": "Kāpīsā",
+                "nativeName": "Kāpīsā",
+                "countryCode": "AF"
+            },
+            {
+                "code": "KDZ",
+                "name": "Kunduz",
+                "nativeName": "Kunduz",
+                "countryCode": "AF"
+            },
+            {
+                "code": "KHO",
+                "name": "Khōst",
+                "nativeName": "Khōst",
+                "countryCode": "AF"
+            },
+            {
+                "code": "KNR",
+                "name": "Kunar",
+                "nativeName": "Kunar",
+                "countryCode": "AF"
+            },
+            {
+                "code": "LAG",
+                "name": "Laghmān",
+                "nativeName": "Laghmān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "LOG",
+                "name": "Lōgar",
+                "nativeName": "Lōgar",
+                "countryCode": "AF"
+            },
+            {
+                "code": "NAN",
+                "name": "Nangarhār",
+                "nativeName": "Nangarhār",
+                "countryCode": "AF"
+            },
+            {
+                "code": "NIM",
+                "name": "Nīmrōz",
+                "nativeName": "Nīmrōz",
+                "countryCode": "AF"
+            },
+            {
+                "code": "NUR",
+                "name": "Nūristān",
+                "nativeName": "Nūristān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "PAN",
+                "name": "Panjshayr",
+                "nativeName": "Panjshayr",
+                "countryCode": "AF"
+            },
+            {
+                "code": "PAR",
+                "name": "Parwān",
+                "nativeName": "Parwān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "PIA",
+                "name": "Paktiyā",
+                "nativeName": "Paktiyā",
+                "countryCode": "AF"
+            },
+            {
+                "code": "PKA",
+                "name": "Paktīkā",
+                "nativeName": "Paktīkā",
+                "countryCode": "AF"
+            },
+            {
+                "code": "SAM",
+                "name": "Samangān",
+                "nativeName": "Samangān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "SAR",
+                "name": "Sar-e Pul",
+                "nativeName": "Sar-e Pul",
+                "countryCode": "AF"
+            },
+            {
+                "code": "TAK",
+                "name": "Takhār",
+                "nativeName": "Takhār",
+                "countryCode": "AF"
+            },
+            {
+                "code": "URU",
+                "name": "Uruzgān",
+                "nativeName": "Uruzgān",
+                "countryCode": "AF"
+            },
+            {
+                "code": "WAR",
+                "name": "Wardak",
+                "nativeName": "Wardak",
+                "countryCode": "AF"
+            },
+            {
+                "code": "ZAB",
+                "name": "Zābul",
+                "nativeName": "Zābul",
+                "countryCode": "AF"
+            }
+        ]
+    }
+}

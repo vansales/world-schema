@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "IQ",
+        "name": "Iraq",
+        "nativeName": "العراق",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/irq.svg",
+        "state": []
+    }
+}

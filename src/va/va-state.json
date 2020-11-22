@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "VA",
+        "name": "Holy See (Vatican City State)",
+        "nativeName": "Sancta Sedes",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/vat.svg",
+        "state": []
+    }
+}

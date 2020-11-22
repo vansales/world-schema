@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "FI",
+        "name": "Finland",
+        "nativeName": "Suomi",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/fin.svg",
+        "state": []
+    }
+}

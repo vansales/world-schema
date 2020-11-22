@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LY",
+        "name": "Libyan Arab Jamahiriya",
+        "nativeName": "‏ليبيا",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/lby.svg",
+        "state": []
+    }
+}

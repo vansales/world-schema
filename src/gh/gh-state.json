@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GH",
+        "name": "Ghana",
+        "nativeName": "Ghana",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/gha.svg",
+        "state": []
+    }
+}

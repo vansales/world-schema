@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GG",
+        "name": "Guernsey",
+        "nativeName": "Guernsey",
+        "timezones": "UTC+00:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ggy.svg",
+        "state": []
+    }
+}

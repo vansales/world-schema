@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SN",
+        "name": "Senegal",
+        "nativeName": "Sénégal",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/sen.svg",
+        "state": []
+    }
+}

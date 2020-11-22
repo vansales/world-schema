@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SB",
+        "name": "Solomon Islands",
+        "nativeName": "Solomon Islands",
+        "timezones": "UTC+11:00",
+        "flag": "https:\/\/restcountries.eu\/data\/slb.svg",
+        "state": []
+    }
+}

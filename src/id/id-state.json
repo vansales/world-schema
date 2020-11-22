@@ -1,0 +1,215 @@
+{
+    "country": {
+        "code": "ID",
+        "name": "Indonesia",
+        "nativeName": "Indonesia",
+        "timezones": "UTC+07:00",
+        "flag": "https:\/\/restcountries.eu\/data\/idn.svg",
+        "state": [
+            {
+                "code": "AC",
+                "name": "Aceh",
+                "nativeName": "Aceh",
+                "countryCode": "ID"
+            },
+            {
+                "code": "BA",
+                "name": "Bali",
+                "nativeName": "Bali",
+                "countryCode": "ID"
+            },
+            {
+                "code": "BB",
+                "name": "Kepulauan Bangka Belitung",
+                "nativeName": "Kepulauan Bangka Belitung",
+                "countryCode": "ID"
+            },
+            {
+                "code": "BE",
+                "name": "Bengkulu",
+                "nativeName": "Bengkulu",
+                "countryCode": "ID"
+            },
+            {
+                "code": "BT",
+                "name": "Banten",
+                "nativeName": "Banten",
+                "countryCode": "ID"
+            },
+            {
+                "code": "GO",
+                "name": "Gorontalo",
+                "nativeName": "Gorontalo",
+                "countryCode": "ID"
+            },
+            {
+                "code": "JA",
+                "name": "Jambi",
+                "nativeName": "Jambi",
+                "countryCode": "ID"
+            },
+            {
+                "code": "JB",
+                "name": "Jawa Barat",
+                "nativeName": "Jawa Barat",
+                "countryCode": "ID"
+            },
+            {
+                "code": "JI",
+                "name": "Jawa Timur",
+                "nativeName": "Jawa Timur",
+                "countryCode": "ID"
+            },
+            {
+                "code": "JK",
+                "name": "Jakarta",
+                "nativeName": "Jakarta",
+                "countryCode": "ID"
+            },
+            {
+                "code": "JT",
+                "name": "Jawa Tengah",
+                "nativeName": "Jawa Tengah",
+                "countryCode": "ID"
+            },
+            {
+                "code": "KB",
+                "name": "Kalimantan Barat",
+                "nativeName": "Kalimantan Barat",
+                "countryCode": "ID"
+            },
+            {
+                "code": "KI",
+                "name": "Kalimantan Timur",
+                "nativeName": "Kalimantan Timur",
+                "countryCode": "ID"
+            },
+            {
+                "code": "KR",
+                "name": "Kepulauan Riau",
+                "nativeName": "Kepulauan Riau",
+                "countryCode": "ID"
+            },
+            {
+                "code": "KS",
+                "name": "Kalimantan Selatan",
+                "nativeName": "Kalimantan Selatan",
+                "countryCode": "ID"
+            },
+            {
+                "code": "KT",
+                "name": "Kalimantan Tengah",
+                "nativeName": "Kalimantan Tengah",
+                "countryCode": "ID"
+            },
+            {
+                "code": "KU",
+                "name": "Kalimantan Utara",
+                "nativeName": "Kalimantan Utara",
+                "countryCode": "ID"
+            },
+            {
+                "code": "LA",
+                "name": "Lampung",
+                "nativeName": "Lampung",
+                "countryCode": "ID"
+            },
+            {
+                "code": "MA",
+                "name": "Maluku",
+                "nativeName": "Maluku",
+                "countryCode": "ID"
+            },
+            {
+                "code": "MU",
+                "name": "Maluku Utara",
+                "nativeName": "Maluku Utara",
+                "countryCode": "ID"
+            },
+            {
+                "code": "NB",
+                "name": "Nusa Tenggara Barat",
+                "nativeName": "Nusa Tenggara Barat",
+                "countryCode": "ID"
+            },
+            {
+                "code": "NT",
+                "name": "Nusa Tenggara Timur",
+                "nativeName": "Nusa Tenggara Timur",
+                "countryCode": "ID"
+            },
+            {
+                "code": "PA",
+                "name": "Papua",
+                "nativeName": "Papua",
+                "countryCode": "ID"
+            },
+            {
+                "code": "PB",
+                "name": "Papua Barat",
+                "nativeName": "Papua Barat",
+                "countryCode": "ID"
+            },
+            {
+                "code": "RI",
+                "name": "Riau",
+                "nativeName": "Riau",
+                "countryCode": "ID"
+            },
+            {
+                "code": "SA",
+                "name": "Sulawesi Utara",
+                "nativeName": "Sulawesi Utara",
+                "countryCode": "ID"
+            },
+            {
+                "code": "SB",
+                "name": "Sumatera Barat",
+                "nativeName": "Sumatera Barat",
+                "countryCode": "ID"
+            },
+            {
+                "code": "SG",
+                "name": "Sulawesi Tenggara",
+                "nativeName": "Sulawesi Tenggara",
+                "countryCode": "ID"
+            },
+            {
+                "code": "SN",
+                "name": "Sulawesi Selatan",
+                "nativeName": "Sulawesi Selatan",
+                "countryCode": "ID"
+            },
+            {
+                "code": "SR",
+                "name": "Sulawesi Barat",
+                "nativeName": "Sulawesi Barat",
+                "countryCode": "ID"
+            },
+            {
+                "code": "SS",
+                "name": "Sumatera Selatan",
+                "nativeName": "Sumatera Selatan",
+                "countryCode": "ID"
+            },
+            {
+                "code": "ST",
+                "name": "Sulawesi Tengah",
+                "nativeName": "Sulawesi Tengah",
+                "countryCode": "ID"
+            },
+            {
+                "code": "SU",
+                "name": "Sumatera Utara",
+                "nativeName": "Sumatera Utara",
+                "countryCode": "ID"
+            },
+            {
+                "code": "YO",
+                "name": "Yogyakarta",
+                "nativeName": "Yogyakarta",
+                "countryCode": "ID"
+            }
+        ]
+    }
+}

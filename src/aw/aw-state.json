@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "AW",
+        "name": "Aruba",
+        "nativeName": "Aruba",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/abw.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SX",
+        "name": "Sint Maarten",
+        "nativeName": "Sint Maarten",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/sxm.svg",
+        "state": []
+    }
+}

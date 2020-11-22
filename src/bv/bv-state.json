@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BV",
+        "name": "Bouvet Island",
+        "nativeName": "Bouvetøya",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bvt.svg",
+        "state": []
+    }
+}

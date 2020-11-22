@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "EG",
+        "name": "Egypt",
+        "nativeName": "مصر‎",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/egy.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MF",
+        "name": "Saint Martin",
+        "nativeName": "Saint-Martin",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/maf.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TW",
+        "name": "Taiwan, Province of China",
+        "nativeName": "臺灣",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/twn.svg",
+        "state": []
+    }
+}

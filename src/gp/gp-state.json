@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GP",
+        "name": "Guadeloupe",
+        "nativeName": "Guadeloupe",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/glp.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "FR",
+        "name": "France",
+        "nativeName": "France",
+        "timezones": "UTC-10:00",
+        "flag": "https:\/\/restcountries.eu\/data\/fra.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CN",
+        "name": "China",
+        "nativeName": "中国",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/chn.svg",
+        "state": []
+    }
+}

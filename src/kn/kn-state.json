@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KN",
+        "name": "Saint Kitts and Nevis",
+        "nativeName": "Saint Kitts and Nevis",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/kna.svg",
+        "state": []
+    }
+}

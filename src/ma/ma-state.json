@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MA",
+        "name": "Morocco",
+        "nativeName": "المغرب",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/mar.svg",
+        "state": []
+    }
+}

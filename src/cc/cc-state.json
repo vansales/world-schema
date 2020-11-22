@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CC",
+        "name": "Cocos (Keeling) Islands",
+        "nativeName": "Cocos (Keeling) Islands",
+        "timezones": "UTC+06:30",
+        "flag": "https:\/\/restcountries.eu\/data\/cck.svg",
+        "state": []
+    }
+}

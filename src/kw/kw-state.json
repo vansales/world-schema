@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KW",
+        "name": "Kuwait",
+        "nativeName": "الكويت",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/kwt.svg",
+        "state": []
+    }
+}

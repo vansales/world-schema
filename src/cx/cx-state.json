@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CX",
+        "name": "Christmas Island",
+        "nativeName": "Christmas Island",
+        "timezones": "UTC+07:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cxr.svg",
+        "state": []
+    }
+}

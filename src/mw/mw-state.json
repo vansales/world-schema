@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MW",
+        "name": "Malawi",
+        "nativeName": "Malawi",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mwi.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "HU",
+        "name": "Hungary",
+        "nativeName": "Magyarország",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/hun.svg",
+        "state": []
+    }
+}

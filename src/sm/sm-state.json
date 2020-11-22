@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SM",
+        "name": "San Marino",
+        "nativeName": "San Marino",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/smr.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "RU",
+        "name": "Russian Federation",
+        "nativeName": "Россия",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/rus.svg",
+        "state": []
+    }
+}

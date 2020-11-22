@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "IS",
+        "name": "Iceland",
+        "nativeName": "Ísland",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/isl.svg",
+        "state": []
+    }
+}

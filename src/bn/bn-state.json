@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BN",
+        "name": "Brunei Darussalam",
+        "nativeName": "Negara Brunei Darussalam",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/brn.svg",
+        "state": []
+    }
+}

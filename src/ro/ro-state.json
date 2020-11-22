@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "RO",
+        "name": "Romania",
+        "nativeName": "România",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/rou.svg",
+        "state": []
+    }
+}

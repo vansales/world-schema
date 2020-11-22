@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "HN",
+        "name": "Honduras",
+        "nativeName": "Honduras",
+        "timezones": "UTC-06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/hnd.svg",
+        "state": []
+    }
+}

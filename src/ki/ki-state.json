@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KI",
+        "name": "Kiribati",
+        "nativeName": "Kiribati",
+        "timezones": "UTC+12:00",
+        "flag": "https:\/\/restcountries.eu\/data\/kir.svg",
+        "state": []
+    }
+}

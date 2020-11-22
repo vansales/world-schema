@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NR",
+        "name": "Nauru",
+        "nativeName": "Nauru",
+        "timezones": "UTC+12:00",
+        "flag": "https:\/\/restcountries.eu\/data\/nru.svg",
+        "state": []
+    }
+}

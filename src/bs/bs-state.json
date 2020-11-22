@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BS",
+        "name": "Bahamas",
+        "nativeName": "Bahamas",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bhs.svg",
+        "state": []
+    }
+}

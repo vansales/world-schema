@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LI",
+        "name": "Liechtenstein",
+        "nativeName": "Liechtenstein",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/lie.svg",
+        "state": []
+    }
+}

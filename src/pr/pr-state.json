@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PR",
+        "name": "Puerto Rico",
+        "nativeName": "Puerto Rico",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/pri.svg",
+        "state": []
+    }
+}

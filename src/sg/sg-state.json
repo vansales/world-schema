@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SG",
+        "name": "Singapore",
+        "nativeName": "Singapore",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/sgp.svg",
+        "state": []
+    }
+}

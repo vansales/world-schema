@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MC",
+        "name": "Monaco",
+        "nativeName": "Monaco",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mco.svg",
+        "state": []
+    }
+}

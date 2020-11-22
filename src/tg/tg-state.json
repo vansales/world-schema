@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TG",
+        "name": "Togo",
+        "nativeName": "Togo",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/tgo.svg",
+        "state": []
+    }
+}

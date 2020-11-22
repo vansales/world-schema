@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "IE",
+        "name": "Ireland",
+        "nativeName": "Éire",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/irl.svg",
+        "state": []
+    }
+}

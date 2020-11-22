@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NL",
+        "name": "Netherlands",
+        "nativeName": "Nederland",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/nld.svg",
+        "state": []
+    }
+}

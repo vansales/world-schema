@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "FM",
+        "name": "Micronesia, Federated States of",
+        "nativeName": "Micronesia",
+        "timezones": "UTC+10:00",
+        "flag": "https:\/\/restcountries.eu\/data\/fsm.svg",
+        "state": []
+    }
+}

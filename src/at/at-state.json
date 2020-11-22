@@ -1,0 +1,65 @@
+{
+    "country": {
+        "code": "AT",
+        "name": "Austria",
+        "nativeName": "Österreich",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/aut.svg",
+        "state": [
+            {
+                "code": "01",
+                "name": "Burgenland",
+                "nativeName": "Burgenland",
+                "countryCode": "AT"
+            },
+            {
+                "code": "02",
+                "name": "Kärnten",
+                "nativeName": "Kärnten",
+                "countryCode": "AT"
+            },
+            {
+                "code": "03",
+                "name": "Niederösterreich",
+                "nativeName": "Niederösterreich",
+                "countryCode": "AT"
+            },
+            {
+                "code": "04",
+                "name": "Oberösterreich",
+                "nativeName": "Oberösterreich",
+                "countryCode": "AT"
+            },
+            {
+                "code": "05",
+                "name": "Salzburg",
+                "nativeName": "Salzburg",
+                "countryCode": "AT"
+            },
+            {
+                "code": "06",
+                "name": "Steiermark",
+                "nativeName": "Steiermark",
+                "countryCode": "AT"
+            },
+            {
+                "code": "07",
+                "name": "Tirol",
+                "nativeName": "Tirol",
+                "countryCode": "AT"
+            },
+            {
+                "code": "08",
+                "name": "Vorarlberg",
+                "nativeName": "Vorarlberg",
+                "countryCode": "AT"
+            },
+            {
+                "code": "09",
+                "name": "Wien",
+                "nativeName": "Wien",
+                "countryCode": "AT"
+            }
+        ]
+    }
+}

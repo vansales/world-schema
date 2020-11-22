@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BW",
+        "name": "Botswana",
+        "nativeName": "Botswana",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bwa.svg",
+        "state": []
+    }
+}

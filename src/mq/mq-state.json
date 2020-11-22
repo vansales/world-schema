@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MQ",
+        "name": "Martinique",
+        "nativeName": "Martinique",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mtq.svg",
+        "state": []
+    }
+}

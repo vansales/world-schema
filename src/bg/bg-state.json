@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BG",
+        "name": "Bulgaria",
+        "nativeName": "България",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bgr.svg",
+        "state": []
+    }
+}

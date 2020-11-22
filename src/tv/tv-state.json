@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TV",
+        "name": "Tuvalu",
+        "nativeName": "Tuvalu",
+        "timezones": "UTC+12:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tuv.svg",
+        "state": []
+    }
+}

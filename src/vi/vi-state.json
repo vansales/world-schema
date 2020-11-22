@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "VI",
+        "name": "Virgin Islands, U.s.",
+        "nativeName": "Virgin Islands of the United States",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/vir.svg",
+        "state": []
+    }
+}

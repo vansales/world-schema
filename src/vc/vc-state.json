@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "nativeName": "Saint Vincent and the Grenadines",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/vct.svg",
+        "state": []
+    }
+}

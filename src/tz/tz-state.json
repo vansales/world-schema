@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TZ",
+        "name": "Tanzania, United Republic of",
+        "nativeName": "Tanzania",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tza.svg",
+        "state": []
+    }
+}

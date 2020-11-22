@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PS",
+        "name": "Palestinian Territory, Occupied",
+        "nativeName": "فلسطين",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/pse.svg",
+        "state": []
+    }
+}

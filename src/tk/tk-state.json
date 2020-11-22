@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TK",
+        "name": "Tokelau",
+        "nativeName": "Tokelau",
+        "timezones": "UTC+13:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tkl.svg",
+        "state": []
+    }
+}

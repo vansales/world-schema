@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GE",
+        "name": "Georgia",
+        "nativeName": "საქართველო",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/geo.svg",
+        "state": []
+    }
+}

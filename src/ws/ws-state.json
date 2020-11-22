@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "WS",
+        "name": "Samoa",
+        "nativeName": "Samoa",
+        "timezones": "UTC+13:00",
+        "flag": "https:\/\/restcountries.eu\/data\/wsm.svg",
+        "state": []
+    }
+}

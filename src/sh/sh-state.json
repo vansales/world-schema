@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SH",
+        "name": "Saint Helena",
+        "nativeName": "Saint Helena",
+        "timezones": "UTC+00:00",
+        "flag": "https:\/\/restcountries.eu\/data\/shn.svg",
+        "state": []
+    }
+}

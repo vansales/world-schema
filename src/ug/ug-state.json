@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "UG",
+        "name": "Uganda",
+        "nativeName": "Uganda",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/uga.svg",
+        "state": []
+    }
+}

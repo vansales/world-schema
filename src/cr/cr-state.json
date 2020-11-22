@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CR",
+        "name": "Costa Rica",
+        "nativeName": "Costa Rica",
+        "timezones": "UTC-06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cri.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "QA",
+        "name": "Qatar",
+        "nativeName": "قطر",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/qat.svg",
+        "state": []
+    }
+}

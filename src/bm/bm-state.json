@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BM",
+        "name": "Bermuda",
+        "nativeName": "Bermuda",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bmu.svg",
+        "state": []
+    }
+}

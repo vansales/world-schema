@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BB",
+        "name": "Barbados",
+        "nativeName": "Barbados",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/brb.svg",
+        "state": []
+    }
+}

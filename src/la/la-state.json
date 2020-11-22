@@ -1,0 +1,119 @@
+{
+    "country": {
+        "code": "LA",
+        "name": "Lao People's Democratic Republic",
+        "nativeName": "ສປປລາວ",
+        "timezones": "UTC+07:00",
+        "flag": "https:\/\/restcountries.eu\/data\/lao.svg",
+        "state": [
+            {
+                "code": "01",
+                "name": "Vientiane Capi.",
+                "nativeName": "ນະຄອນຫຼວງວຽງຈັນ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "02",
+                "name": "Phongsali",
+                "nativeName": "ຜົ້ງສາລີ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "03",
+                "name": "Luang Namtha",
+                "nativeName": "ຫຼວງນ້ຳທາ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "04",
+                "name": "Oudomxay",
+                "nativeName": "ອຸດົມໄຊ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "05",
+                "name": "Bokeo",
+                "nativeName": "ບໍ່ແກ້ວ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "06",
+                "name": "Luang Prabang",
+                "nativeName": "ຫຼວງພະບາງ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "07",
+                "name": "Hua Phan",
+                "nativeName": "ຫົວພັນ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "08",
+                "name": "Sayabouly",
+                "nativeName": "ໄຊຍະບູລີ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "09",
+                "name": "Xieng Khouang",
+                "nativeName": "ຊຽງຂວາງ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "10",
+                "name": "Vientiane Prov.",
+                "nativeName": "ວຽງຈັນ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "11",
+                "name": "Bolikhamsai",
+                "nativeName": "ບໍລິຄໍາໄຊ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "12",
+                "name": "Khammouane",
+                "nativeName": "ຄໍາມ່ວນ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "13",
+                "name": "Savannakhet",
+                "nativeName": "ສະຫວັນນະເຂດ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "14",
+                "name": "Salavan",
+                "nativeName": "ສາລະວັນ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "15",
+                "name": "Sekong",
+                "nativeName": "ເຊກອງ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "16",
+                "name": "Champasak",
+                "nativeName": "ຈໍາປາສັກ",
+                "countryCode": "LA"
+            },
+            {
+                "code": "17",
+                "name": "Attapeu",
+                "nativeName": "ອັດຕະປື",
+                "countryCode": "LA"
+            },
+            {
+                "code": "18",
+                "name": "Xaisomboun Prov.",
+                "nativeName": "ໄຊສົມບູນ",
+                "countryCode": "LA"
+            }
+        ]
+    }
+}

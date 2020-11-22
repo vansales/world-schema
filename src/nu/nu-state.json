@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NU",
+        "name": "Niue",
+        "nativeName": "Niuē",
+        "timezones": "UTC-11:00",
+        "flag": "https:\/\/restcountries.eu\/data\/niu.svg",
+        "state": []
+    }
+}

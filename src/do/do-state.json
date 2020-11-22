@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "DO",
+        "name": "Dominican Republic",
+        "nativeName": "República Dominicana",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/dom.svg",
+        "state": []
+    }
+}

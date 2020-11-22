@@ -1,0 +1,473 @@
+{
+    "country": {
+        "code": "TH",
+        "name": "Thailand",
+        "nativeName": "ประเทศไทย",
+        "timezones": "UTC+07:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tha.svg",
+        "state": [
+            {
+                "code": "ACR",
+                "name": "Amnat Charoen",
+                "nativeName": "อำนาจเจริญ",
+                "countryCode": "TH"
+            },
+            {
+                "code": "ATG",
+                "name": "Ang Thong",
+                "nativeName": "อ่างทอง",
+                "countryCode": "TH"
+            },
+            {
+                "code": "AYA",
+                "name": "Phra Nakhon Si Ayutthaya",
+                "nativeName": "พระนครศรีอยุธยา",
+                "countryCode": "TH"
+            },
+            {
+                "code": "BKK",
+                "name": "Bangkok",
+                "nativeName": "กรุงเทพมหานคร",
+                "countryCode": "TH"
+            },
+            {
+                "code": "BKN",
+                "name": "Bueng Kan",
+                "nativeName": "บึงกาฬ",
+                "countryCode": "TH"
+            },
+            {
+                "code": "BRM",
+                "name": "Buri Ram",
+                "nativeName": "บุรีรัมย์",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CBI",
+                "name": "Chon Buri",
+                "nativeName": "ชลบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CCO",
+                "name": "Chachoengsao",
+                "nativeName": "ฉะเชิงเทรา",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CMI",
+                "name": "Chiang Mai",
+                "nativeName": "เชียงใหม่",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CNT",
+                "name": "Chai Nat",
+                "nativeName": "ชัยนาท",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CPM",
+                "name": "Chaiyaphum",
+                "nativeName": "ชัยภูมิ",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CPN",
+                "name": "Chumphon",
+                "nativeName": "ชุมพร",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CRI",
+                "name": "Chiang Rai",
+                "nativeName": "เชียงราย",
+                "countryCode": "TH"
+            },
+            {
+                "code": "CTI",
+                "name": "Chanthaburi",
+                "nativeName": "จันทบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "KBI",
+                "name": "Krabi",
+                "nativeName": "กระบี่",
+                "countryCode": "TH"
+            },
+            {
+                "code": "KKN",
+                "name": "Khon Kaen",
+                "nativeName": "ขอนแก่น",
+                "countryCode": "TH"
+            },
+            {
+                "code": "KPT",
+                "name": "Kamphaeng Phet",
+                "nativeName": "กำแพงเพชร",
+                "countryCode": "TH"
+            },
+            {
+                "code": "KRI",
+                "name": "Kanchanaburi",
+                "nativeName": "กาญจนบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "KSN",
+                "name": "Kalasin",
+                "nativeName": "กาฬสินธุ์",
+                "countryCode": "TH"
+            },
+            {
+                "code": "LEI",
+                "name": "Loei",
+                "nativeName": "เลย",
+                "countryCode": "TH"
+            },
+            {
+                "code": "LPG",
+                "name": "Lampang",
+                "nativeName": "ลำปาง",
+                "countryCode": "TH"
+            },
+            {
+                "code": "LPN",
+                "name": "Lamphun",
+                "nativeName": "ลำพูน",
+                "countryCode": "TH"
+            },
+            {
+                "code": "LRI",
+                "name": "Lop Buri",
+                "nativeName": "ลพบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "MDH",
+                "name": "Mukdahan",
+                "nativeName": "มุกดาหาร",
+                "countryCode": "TH"
+            },
+            {
+                "code": "MKM",
+                "name": "Maha Sarakham",
+                "nativeName": "มหาสารคาม",
+                "countryCode": "TH"
+            },
+            {
+                "code": "MSN",
+                "name": "Mae Hong Son",
+                "nativeName": "แม่ฮ่องสอน",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NAN",
+                "name": "Nan",
+                "nativeName": "น่าน",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NBI",
+                "name": "Nonthaburi",
+                "nativeName": "นนทบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NBP",
+                "name": "Nong Bua Lam Phu",
+                "nativeName": "หนองบัวลำภู",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NKI",
+                "name": "Nong Khai",
+                "nativeName": "หนองคาย",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NMA",
+                "name": "Nakhon Ratchasima",
+                "nativeName": "นครราชสีมา",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NPM",
+                "name": "Nakhon Phanom",
+                "nativeName": "นครพนม",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NPT",
+                "name": "Nakhon Pathom",
+                "nativeName": "นครปฐม",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NRT",
+                "name": "Nakhon Si Thammarat",
+                "nativeName": "นครศรีธรรมราช",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NSN",
+                "name": "Nakhon Sawan",
+                "nativeName": "นครสวรรค์",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NWT",
+                "name": "Narathiwat",
+                "nativeName": "นราธิวาส",
+                "countryCode": "TH"
+            },
+            {
+                "code": "NYK",
+                "name": "Nakhon Nayok",
+                "nativeName": "นครนายก",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PBI",
+                "name": "Phetchaburi",
+                "nativeName": "เพชรบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PCT",
+                "name": "Phichit",
+                "nativeName": "พิจิตร",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PKN",
+                "name": "Prachuap Khiri Khan",
+                "nativeName": "ประจวบคีรีขันธ์",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PKT",
+                "name": "Phuket",
+                "nativeName": "ภูเก็ต",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PLG",
+                "name": "Phatthalung",
+                "nativeName": "พัทลุง",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PLK",
+                "name": "Phitsanulok",
+                "nativeName": "พิษณุโลก",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PNA",
+                "name": "Phangnga",
+                "nativeName": "พังงา",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PNB",
+                "name": "Phetchabun",
+                "nativeName": "เพชรบูรณ์",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PRE",
+                "name": "Phrae",
+                "nativeName": "แพร่",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PRI",
+                "name": "Prachin Buri",
+                "nativeName": "ปราจีนบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PTE",
+                "name": "Pathum Thani",
+                "nativeName": "ปทุมธานี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PTN",
+                "name": "Pattani",
+                "nativeName": "ปัตตานี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "PYO",
+                "name": "Phayao",
+                "nativeName": "พะเยา",
+                "countryCode": "TH"
+            },
+            {
+                "code": "RBR",
+                "name": "Ratchaburi",
+                "nativeName": "ราชบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "RET",
+                "name": "Roi Et",
+                "nativeName": "ร้อยเอ็ด",
+                "countryCode": "TH"
+            },
+            {
+                "code": "RNG",
+                "name": "Ranong",
+                "nativeName": "ระนอง",
+                "countryCode": "TH"
+            },
+            {
+                "code": "RYG",
+                "name": "Rayong",
+                "nativeName": "ระยอง",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SBR",
+                "name": "Sing Buri",
+                "nativeName": "สิงห์บุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SKA",
+                "name": "Songkhla",
+                "nativeName": "สงขลา",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SKM",
+                "name": "Samut Songkhram",
+                "nativeName": "สมุทรสงคราม",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SKN",
+                "name": "Samut Sakhon",
+                "nativeName": "สมุทรสาคร",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SKW",
+                "name": "Sa Kaeo",
+                "nativeName": "สระแก้ว",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SNI",
+                "name": "Surat Thani",
+                "nativeName": "สุราษฎร์ธานี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SNK",
+                "name": "Sakon Nakhon",
+                "nativeName": "สกลนคร",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SPB",
+                "name": "Suphan Buri",
+                "nativeName": "สุพรรณบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SPK",
+                "name": "Samut Prakan",
+                "nativeName": "สมุทรปราการ",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SRI",
+                "name": "Saraburi",
+                "nativeName": "สระบุรี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SRN",
+                "name": "Surin",
+                "nativeName": "สุรินทร์",
+                "countryCode": "TH"
+            },
+            {
+                "code": "SSK",
+                "name": "Si Sa Ket",
+                "nativeName": "ศรีสะเกษ",
+                "countryCode": "TH"
+            },
+            {
+                "code": "STI",
+                "name": "Sukhothai",
+                "nativeName": "สุโขทัย",
+                "countryCode": "TH"
+            },
+            {
+                "code": "STN",
+                "name": "Satun",
+                "nativeName": "สตูล",
+                "countryCode": "TH"
+            },
+            {
+                "code": "TAK",
+                "name": "Tak",
+                "nativeName": "ตาก",
+                "countryCode": "TH"
+            },
+            {
+                "code": "TRG",
+                "name": "Trang",
+                "nativeName": "ตรัง",
+                "countryCode": "TH"
+            },
+            {
+                "code": "TRT",
+                "name": "Trat",
+                "nativeName": "ตราด",
+                "countryCode": "TH"
+            },
+            {
+                "code": "UBN",
+                "name": "Ubon Ratchathani",
+                "nativeName": "อุบลราชธานี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "UDN",
+                "name": "Udon Thani",
+                "nativeName": "อุดรธานี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "UTD",
+                "name": "Uttaradit",
+                "nativeName": "อุตรดิตถ์",
+                "countryCode": "TH"
+            },
+            {
+                "code": "UTI",
+                "name": "Uthai Thani",
+                "nativeName": "อุทัยธานี",
+                "countryCode": "TH"
+            },
+            {
+                "code": "YLA",
+                "name": "Yala",
+                "nativeName": "ยะลา",
+                "countryCode": "TH"
+            },
+            {
+                "code": "YST",
+                "name": "Yasothon",
+                "nativeName": "ยโสธร",
+                "countryCode": "TH"
+            }
+        ]
+    }
+}

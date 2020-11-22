@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "ST",
+        "name": "Sao Tome and Principe",
+        "nativeName": "São Tomé e Príncipe",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/stp.svg",
+        "state": []
+    }
+}

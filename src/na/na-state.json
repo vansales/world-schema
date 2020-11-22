@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NA",
+        "name": "Namibia",
+        "nativeName": "Namibia",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/nam.svg",
+        "state": []
+    }
+}

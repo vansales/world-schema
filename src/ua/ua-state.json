@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "UA",
+        "name": "Ukraine",
+        "nativeName": "Україна",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ukr.svg",
+        "state": []
+    }
+}

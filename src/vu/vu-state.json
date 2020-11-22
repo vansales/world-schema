@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "VU",
+        "name": "Vanuatu",
+        "nativeName": "Vanuatu",
+        "timezones": "UTC+11:00",
+        "flag": "https:\/\/restcountries.eu\/data\/vut.svg",
+        "state": []
+    }
+}

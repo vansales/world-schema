@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "nativeName": "Türkiye",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tur.svg",
+        "state": []
+    }
+}

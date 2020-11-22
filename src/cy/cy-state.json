@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CY",
+        "name": "Cyprus",
+        "nativeName": "Κύπρος",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cyp.svg",
+        "state": []
+    }
+}

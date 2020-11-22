@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "EE",
+        "name": "Estonia",
+        "nativeName": "Eesti",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/est.svg",
+        "state": []
+    }
+}

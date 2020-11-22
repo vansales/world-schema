@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GD",
+        "name": "Grenada",
+        "nativeName": "Grenada",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/grd.svg",
+        "state": []
+    }
+}

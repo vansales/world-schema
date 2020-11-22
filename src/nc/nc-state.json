@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NC",
+        "name": "New Caledonia",
+        "nativeName": "Nouvelle-Calédonie",
+        "timezones": "UTC+11:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ncl.svg",
+        "state": []
+    }
+}

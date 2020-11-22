@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LK",
+        "name": "Sri Lanka",
+        "nativeName": "śrī laṃkāva",
+        "timezones": "UTC+05:30",
+        "flag": "https:\/\/restcountries.eu\/data\/lka.svg",
+        "state": []
+    }
+}

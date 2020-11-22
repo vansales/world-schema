@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "ET",
+        "name": "Ethiopia",
+        "nativeName": "ኢትዮጵያ",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/eth.svg",
+        "state": []
+    }
+}

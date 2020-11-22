@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CF",
+        "name": "Central African Republic",
+        "nativeName": "Ködörösêse tî Bêafrîka",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/caf.svg",
+        "state": []
+    }
+}

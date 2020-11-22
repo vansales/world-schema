@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LV",
+        "name": "Latvia",
+        "nativeName": "Latvija",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/lva.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "country": {
+        "code": "AU",
+        "name": "Australia",
+        "nativeName": "Australia",
+        "timezones": "UTC+05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/aus.svg",
+        "state": [
+            {
+                "code": "ACT",
+                "name": "Australian Capital Territory",
+                "nativeName": "Australian Capital Territory",
+                "countryCode": "AU"
+            },
+            {
+                "code": "NSW",
+                "name": "New South Wales",
+                "nativeName": "New South Wales",
+                "countryCode": "AU"
+            },
+            {
+                "code": "NT",
+                "name": "Northern Territory",
+                "nativeName": "Northern Territory",
+                "countryCode": "AU"
+            },
+            {
+                "code": "QLD",
+                "name": "Queensland",
+                "nativeName": "Queensland",
+                "countryCode": "AU"
+            },
+            {
+                "code": "SA",
+                "name": "South Australia",
+                "nativeName": "South Australia",
+                "countryCode": "AU"
+            },
+            {
+                "code": "TAS",
+                "name": "Tasmania",
+                "nativeName": "Tasmania",
+                "countryCode": "AU"
+            },
+            {
+                "code": "VIC",
+                "name": "Victoria",
+                "nativeName": "Victoria",
+                "countryCode": "AU"
+            },
+            {
+                "code": "WA",
+                "name": "Western Australia",
+                "nativeName": "Western Australia",
+                "countryCode": "AU"
+            }
+        ]
+    }
+}

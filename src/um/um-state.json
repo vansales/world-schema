@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "UM",
+        "name": "United States Minor Outlying Islands",
+        "nativeName": "United States Minor Outlying Islands",
+        "timezones": "UTC-11:00",
+        "flag": "https:\/\/restcountries.eu\/data\/umi.svg",
+        "state": []
+    }
+}

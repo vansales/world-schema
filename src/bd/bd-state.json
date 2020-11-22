@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BD",
+        "name": "Bangladesh",
+        "nativeName": "Bangladesh",
+        "timezones": "UTC+06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bgd.svg",
+        "state": []
+    }
+}

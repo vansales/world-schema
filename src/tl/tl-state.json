@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TL",
+        "name": "Timor-Leste",
+        "nativeName": "Timor-Leste",
+        "timezones": "UTC+09:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tls.svg",
+        "state": []
+    }
+}

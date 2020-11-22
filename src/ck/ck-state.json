@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CK",
+        "name": "Cook Islands",
+        "nativeName": "Cook Islands",
+        "timezones": "UTC-10:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cok.svg",
+        "state": []
+    }
+}

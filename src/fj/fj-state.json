@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "FJ",
+        "name": "Fiji",
+        "nativeName": "Fiji",
+        "timezones": "UTC+12:00",
+        "flag": "https:\/\/restcountries.eu\/data\/fji.svg",
+        "state": []
+    }
+}

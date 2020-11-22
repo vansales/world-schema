@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SE",
+        "name": "Sweden",
+        "nativeName": "Sverige",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/swe.svg",
+        "state": []
+    }
+}

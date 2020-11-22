@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SR",
+        "name": "Suriname",
+        "nativeName": "Suriname",
+        "timezones": "UTC-03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/sur.svg",
+        "state": []
+    }
+}

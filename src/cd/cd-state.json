@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CD",
+        "name": "Congo, the Democratic Republic of the",
+        "nativeName": "République démocratique du Congo",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cod.svg",
+        "state": []
+    }
+}

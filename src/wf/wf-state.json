@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "WF",
+        "name": "Wallis and Futuna",
+        "nativeName": "Wallis et Futuna",
+        "timezones": "UTC+12:00",
+        "flag": "https:\/\/restcountries.eu\/data\/wlf.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "VG",
+        "name": "Virgin Islands, British",
+        "nativeName": "British Virgin Islands",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/vgb.svg",
+        "state": []
+    }
+}

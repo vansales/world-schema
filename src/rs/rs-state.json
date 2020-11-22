@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "RS",
+        "name": "Serbia",
+        "nativeName": "Србија",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/srb.svg",
+        "state": []
+    }
+}

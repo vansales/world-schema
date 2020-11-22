@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CO",
+        "name": "Colombia",
+        "nativeName": "Colombia",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/col.svg",
+        "state": []
+    }
+}

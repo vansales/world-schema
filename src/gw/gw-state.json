@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GW",
+        "name": "Guinea-Bissau",
+        "nativeName": "Guiné-Bissau",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/gnb.svg",
+        "state": []
+    }
+}

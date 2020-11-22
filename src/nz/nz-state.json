@@ -1,0 +1,113 @@
+{
+    "country": {
+        "code": "NZ",
+        "name": "New Zealand",
+        "nativeName": "New Zealand",
+        "timezones": "UTC-11:00",
+        "flag": "https:\/\/restcountries.eu\/data\/nzl.svg",
+        "state": [
+            {
+                "code": "10",
+                "name": "Chatham Islands",
+                "nativeName": "Chatham Islands",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "E7",
+                "name": "Auckland",
+                "nativeName": "Auckland",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "E8",
+                "name": "Bay of Plenty",
+                "nativeName": "Bay of Plenty",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "E9",
+                "name": "Canterbury",
+                "nativeName": "Canterbury",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F1",
+                "name": "Gisborne",
+                "nativeName": "Gisborne",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F2",
+                "name": "Hawke's Bay",
+                "nativeName": "Hawke's Bay",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F3",
+                "name": "Manawatu-Wanganui",
+                "nativeName": "Manawatu-Wanganui",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F4",
+                "name": "Marlborough",
+                "nativeName": "Marlborough",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F5",
+                "name": "Nelson",
+                "nativeName": "Nelson",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F6",
+                "name": "Northland",
+                "nativeName": "Northland",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F7",
+                "name": "Otago",
+                "nativeName": "Otago",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F8",
+                "name": "Southland",
+                "nativeName": "Southland",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "F9",
+                "name": "Taranaki",
+                "nativeName": "Taranaki",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "G1",
+                "name": "Waikato",
+                "nativeName": "Waikato",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "G2",
+                "name": "Wellington",
+                "nativeName": "Wellington",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "G3",
+                "name": "West Coast",
+                "nativeName": "West Coast",
+                "countryCode": "NZ"
+            },
+            {
+                "code": "TAS",
+                "name": "Tasman",
+                "nativeName": "Tasman",
+                "countryCode": "NZ"
+            }
+        ]
+    }
+}

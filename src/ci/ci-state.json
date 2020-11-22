@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CI",
+        "name": "Cote D'Ivoire",
+        "nativeName": "Côte d'Ivoire",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/civ.svg",
+        "state": []
+    }
+}

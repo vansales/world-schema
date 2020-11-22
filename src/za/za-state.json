@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "ZA",
+        "name": "South Africa",
+        "nativeName": "South Africa",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/zaf.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BY",
+        "name": "Belarus",
+        "nativeName": "Белару́сь",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/blr.svg",
+        "state": []
+    }
+}

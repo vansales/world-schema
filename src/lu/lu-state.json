@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "LU",
+        "name": "Luxembourg",
+        "nativeName": "Luxembourg",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/lux.svg",
+        "state": []
+    }
+}

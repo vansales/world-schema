@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MY",
+        "name": "Malaysia",
+        "nativeName": "Malaysia",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mys.svg",
+        "state": []
+    }
+}

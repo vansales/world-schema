@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "ML",
+        "name": "Mali",
+        "nativeName": "Mali",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/mli.svg",
+        "state": []
+    }
+}

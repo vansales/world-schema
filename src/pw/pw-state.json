@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PW",
+        "name": "Palau",
+        "nativeName": "Palau",
+        "timezones": "UTC+09:00",
+        "flag": "https:\/\/restcountries.eu\/data\/plw.svg",
+        "state": []
+    }
+}

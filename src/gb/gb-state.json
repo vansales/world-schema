@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GB",
+        "name": "United Kingdom",
+        "nativeName": "United Kingdom",
+        "timezones": "UTC-08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/gbr.svg",
+        "state": []
+    }
+}

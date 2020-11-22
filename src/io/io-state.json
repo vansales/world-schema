@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "IO",
+        "name": "British Indian Ocean Territory",
+        "nativeName": "British Indian Ocean Territory",
+        "timezones": "UTC+06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/iot.svg",
+        "state": []
+    }
+}

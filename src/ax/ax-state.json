@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "AX",
+        "name": "Åland Islands",
+        "nativeName": "Åland",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ala.svg",
+        "state": []
+    }
+}

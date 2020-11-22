@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MZ",
+        "name": "Mozambique",
+        "nativeName": "Moçambique",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/moz.svg",
+        "state": []
+    }
+}

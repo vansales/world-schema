@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MD",
+        "name": "Moldova, Republic of",
+        "nativeName": "Moldova",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mda.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MO",
+        "name": "Macao",
+        "nativeName": "澳門",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mac.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GS",
+        "name": "South Georgia and the South Sandwich Islands",
+        "nativeName": "South Georgia",
+        "timezones": "UTC-02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/sgs.svg",
+        "state": []
+    }
+}

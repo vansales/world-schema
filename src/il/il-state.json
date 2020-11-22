@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "IL",
+        "name": "Israel",
+        "nativeName": "יִשְׂרָאֵל",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/isr.svg",
+        "state": []
+    }
+}

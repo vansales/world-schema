@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "YT",
+        "name": "Mayotte",
+        "nativeName": "Mayotte",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/myt.svg",
+        "state": []
+    }
+}

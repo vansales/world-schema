@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SS",
+        "name": "South Sudan",
+        "nativeName": "South Sudan",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ssd.svg",
+        "state": []
+    }
+}

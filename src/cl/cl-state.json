@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CL",
+        "name": "Chile",
+        "nativeName": "Chile",
+        "timezones": "UTC-06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/chl.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "JM",
+        "name": "Jamaica",
+        "nativeName": "Jamaica",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/jam.svg",
+        "state": []
+    }
+}

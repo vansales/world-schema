@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "nativeName": "Қазақстан",
+        "timezones": "UTC+05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/kaz.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MP",
+        "name": "Northern Mariana Islands",
+        "nativeName": "Northern Mariana Islands",
+        "timezones": "UTC+10:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mnp.svg",
+        "state": []
+    }
+}

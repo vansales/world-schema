@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GL",
+        "name": "Greenland",
+        "nativeName": "Kalaallit Nunaat",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/grl.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TM",
+        "name": "Turkmenistan",
+        "nativeName": "Türkmenistan",
+        "timezones": "UTC+05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tkm.svg",
+        "state": []
+    }
+}

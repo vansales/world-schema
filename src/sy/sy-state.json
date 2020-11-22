@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SY",
+        "name": "Syrian Arab Republic",
+        "nativeName": "سوريا",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/syr.svg",
+        "state": []
+    }
+}

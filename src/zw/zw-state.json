@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "ZW",
+        "name": "Zimbabwe",
+        "nativeName": "Zimbabwe",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/zwe.svg",
+        "state": []
+    }
+}

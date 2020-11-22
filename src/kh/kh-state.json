@@ -1,0 +1,161 @@
+{
+    "country": {
+        "code": "KH",
+        "name": "Cambodia",
+        "nativeName": "Kâmpŭchéa",
+        "timezones": "UTC+07:00",
+        "flag": "https:\/\/restcountries.eu\/data\/khm.svg",
+        "state": [
+            {
+                "code": "KH-01",
+                "name": "Banteay Meanchey",
+                "nativeName": "បន្ទាយមានជ័យ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-02",
+                "name": "Battambang",
+                "nativeName": "បាត់ដំបង",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-03",
+                "name": "Kampong Cham",
+                "nativeName": "កំពង់ចាម",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-04",
+                "name": "Kampong Chhnang",
+                "nativeName": "កំពង់ឆ្នាំង",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-05",
+                "name": "Kampong Speu",
+                "nativeName": "កំពង់ស្ពឺ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-06",
+                "name": "Kampong Thom",
+                "nativeName": "កំពង់ធំ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-07",
+                "name": "Kampot",
+                "nativeName": "កំពត",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-08",
+                "name": "Kandal",
+                "nativeName": "កណ្តាល",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-09",
+                "name": "Koh Kong",
+                "nativeName": "កោះកុង",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-10",
+                "name": "Kratié",
+                "nativeName": "ក្រចេះ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-11",
+                "name": "Mondulkiri",
+                "nativeName": "មណ្ឌលគិរី",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-12",
+                "name": "Phnom Penh",
+                "nativeName": "ភ្នំពេញ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-13",
+                "name": "Preah Vihear",
+                "nativeName": "ព្រះវិហារ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-14",
+                "name": "Prey Veng",
+                "nativeName": "ព្រៃវែង",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-15",
+                "name": "Pursat",
+                "nativeName": "ពោធិ៍សាត់",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-16",
+                "name": "Ratanak Kiri",
+                "nativeName": "រតនគិរី",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-17",
+                "name": "Siem Reap",
+                "nativeName": "សៀមរាប",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-18",
+                "name": "Preah Sihanouk",
+                "nativeName": "ព្រះសីហនុ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-19",
+                "name": "Steung Treng",
+                "nativeName": "ស្ទឹងត្រែង",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-20",
+                "name": "Svay Rieng",
+                "nativeName": "ស្វាយរៀង",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-21",
+                "name": "Takéo",
+                "nativeName": "តាកែវ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-22",
+                "name": "Oddar Meanchey",
+                "nativeName": "ឧត្តរមានជ័យ",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-23",
+                "name": "Kep\r\n",
+                "nativeName": "កែប",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-24",
+                "name": "Pailin",
+                "nativeName": "ប៉ៃលិន",
+                "countryCode": "KH"
+            },
+            {
+                "code": "KH-25",
+                "name": "Tboung Khmum",
+                "nativeName": "ត្បូងឃ្មុំ",
+                "countryCode": "KH"
+            }
+        ]
+    }
+}

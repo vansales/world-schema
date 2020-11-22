@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PH",
+        "name": "Philippines",
+        "nativeName": "Pilipinas",
+        "timezones": "UTC+08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/phl.svg",
+        "state": []
+    }
+}

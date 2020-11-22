@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "FO",
+        "name": "Faroe Islands",
+        "nativeName": "Føroyar",
+        "timezones": "UTC+00:00",
+        "flag": "https:\/\/restcountries.eu\/data\/fro.svg",
+        "state": []
+    }
+}

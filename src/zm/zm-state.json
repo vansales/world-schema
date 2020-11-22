@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "ZM",
+        "name": "Zambia",
+        "nativeName": "Zambia",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/zmb.svg",
+        "state": []
+    }
+}

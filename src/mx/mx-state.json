@@ -1,0 +1,197 @@
+{
+    "country": {
+        "code": "MX",
+        "name": "Mexico",
+        "nativeName": "México",
+        "timezones": "UTC-08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mex.svg",
+        "state": [
+            {
+                "code": "AG",
+                "name": "Aguascalientes",
+                "nativeName": "Aguascalientes",
+                "countryCode": "MX"
+            },
+            {
+                "code": "BC",
+                "name": "Baja California Norte",
+                "nativeName": "Baja California Norte",
+                "countryCode": "MX"
+            },
+            {
+                "code": "BS",
+                "name": "Baja California Sur",
+                "nativeName": "Baja California Sur",
+                "countryCode": "MX"
+            },
+            {
+                "code": "CH",
+                "name": "Chihuahua",
+                "nativeName": "Chihuahua",
+                "countryCode": "MX"
+            },
+            {
+                "code": "CL",
+                "name": "Colima",
+                "nativeName": "Colima",
+                "countryCode": "MX"
+            },
+            {
+                "code": "CM",
+                "name": "Campeche",
+                "nativeName": "Campeche",
+                "countryCode": "MX"
+            },
+            {
+                "code": "CO",
+                "name": "Coahuila",
+                "nativeName": "Coahuila",
+                "countryCode": "MX"
+            },
+            {
+                "code": "CS",
+                "name": "Chiapas",
+                "nativeName": "Chiapas",
+                "countryCode": "MX"
+            },
+            {
+                "code": "DF",
+                "name": "Distrito Federal",
+                "nativeName": "Distrito Federal",
+                "countryCode": "MX"
+            },
+            {
+                "code": "DG",
+                "name": "Durango",
+                "nativeName": "Durango",
+                "countryCode": "MX"
+            },
+            {
+                "code": "GR",
+                "name": "Guerrero",
+                "nativeName": "Guerrero",
+                "countryCode": "MX"
+            },
+            {
+                "code": "GT",
+                "name": "Guanajuato",
+                "nativeName": "Guanajuato",
+                "countryCode": "MX"
+            },
+            {
+                "code": "HG",
+                "name": "Hidalgo",
+                "nativeName": "Hidalgo",
+                "countryCode": "MX"
+            },
+            {
+                "code": "JA",
+                "name": "Jalisco",
+                "nativeName": "Jalisco",
+                "countryCode": "MX"
+            },
+            {
+                "code": "MI",
+                "name": "Michoacan",
+                "nativeName": "Michoacan",
+                "countryCode": "MX"
+            },
+            {
+                "code": "MO",
+                "name": "Morelos",
+                "nativeName": "Morelos",
+                "countryCode": "MX"
+            },
+            {
+                "code": "NA",
+                "name": "Nayarit",
+                "nativeName": "Nayarit",
+                "countryCode": "MX"
+            },
+            {
+                "code": "NL",
+                "name": "Nuevo Leon",
+                "nativeName": "Nuevo Leon",
+                "countryCode": "MX"
+            },
+            {
+                "code": "OA",
+                "name": "Oaxaca",
+                "nativeName": "Oaxaca",
+                "countryCode": "MX"
+            },
+            {
+                "code": "PU",
+                "name": "Puebla",
+                "nativeName": "Puebla",
+                "countryCode": "MX"
+            },
+            {
+                "code": "QR",
+                "name": "Quintana Roo",
+                "nativeName": "Quintana Roo",
+                "countryCode": "MX"
+            },
+            {
+                "code": "QT",
+                "name": "Queretaro",
+                "nativeName": "Queretaro",
+                "countryCode": "MX"
+            },
+            {
+                "code": "SI",
+                "name": "Sinaloa",
+                "nativeName": "Sinaloa",
+                "countryCode": "MX"
+            },
+            {
+                "code": "SL",
+                "name": "San Luis Potosi",
+                "nativeName": "San Luis Potosi",
+                "countryCode": "MX"
+            },
+            {
+                "code": "SO",
+                "name": "Sonora",
+                "nativeName": "Sonora",
+                "countryCode": "MX"
+            },
+            {
+                "code": "TB",
+                "name": "Tabasco",
+                "nativeName": "Tabasco",
+                "countryCode": "MX"
+            },
+            {
+                "code": "TL",
+                "name": "Tlaxcala",
+                "nativeName": "Tlaxcala",
+                "countryCode": "MX"
+            },
+            {
+                "code": "TM",
+                "name": "Tamaulipas",
+                "nativeName": "Tamaulipas",
+                "countryCode": "MX"
+            },
+            {
+                "code": "VE",
+                "name": "Veracruz",
+                "nativeName": "Veracruz",
+                "countryCode": "MX"
+            },
+            {
+                "code": "YU",
+                "name": "Yucatan",
+                "nativeName": "Yucatan",
+                "countryCode": "MX"
+            },
+            {
+                "code": "ZA",
+                "name": "Zacatecas",
+                "nativeName": "Zacatecas",
+                "countryCode": "MX"
+            }
+        ]
+    }
+}

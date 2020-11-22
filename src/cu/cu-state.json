@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "CU",
+        "name": "Cuba",
+        "nativeName": "Cuba",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/cub.svg",
+        "state": []
+    }
+}

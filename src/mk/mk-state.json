@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MK",
+        "name": "Macedonia, the Former Yugoslav Republic of",
+        "nativeName": "Македонија",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mkd.svg",
+        "state": []
+    }
+}

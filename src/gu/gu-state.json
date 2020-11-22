@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GU",
+        "name": "Guam",
+        "nativeName": "Guam",
+        "timezones": "UTC+10:00",
+        "flag": "https:\/\/restcountries.eu\/data\/gum.svg",
+        "state": []
+    }
+}

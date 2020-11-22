@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NO",
+        "name": "Norway",
+        "nativeName": "Norge",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/nor.svg",
+        "state": []
+    }
+}

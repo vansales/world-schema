@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MG",
+        "name": "Madagascar",
+        "nativeName": "Madagasikara",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mdg.svg",
+        "state": []
+    }
+}

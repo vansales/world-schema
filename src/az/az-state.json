@@ -1,0 +1,473 @@
+{
+    "country": {
+        "code": "AZ",
+        "name": "Azerbaijan",
+        "nativeName": "Azərbaycan",
+        "timezones": "UTC+04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/aze.svg",
+        "state": [
+            {
+                "code": "ABS",
+                "name": "Abşeron",
+                "nativeName": "Abşeron",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "AGA",
+                "name": "Ağstafa",
+                "nativeName": "Ağstafa",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "AGC",
+                "name": "Ağcabədi",
+                "nativeName": "Ağcabədi",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "AGM",
+                "name": "Ağdam",
+                "nativeName": "Ağdam",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "AGS",
+                "name": "Ağdaş",
+                "nativeName": "Ağdaş",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "AGU",
+                "name": "Ağsu",
+                "nativeName": "Ağsu",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "AST",
+                "name": "Astara",
+                "nativeName": "Astara",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "BA",
+                "name": "Bakı",
+                "nativeName": "Bakı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "BAB",
+                "name": "Babək",
+                "nativeName": "Babək",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "BAL",
+                "name": "Balakən",
+                "nativeName": "Balakən",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "BAR",
+                "name": "Bərdə",
+                "nativeName": "Bərdə",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "BEY",
+                "name": "Beyləqan",
+                "nativeName": "Beyləqan",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "BIL",
+                "name": "Biləsuvar",
+                "nativeName": "Biləsuvar",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "CAB",
+                "name": "Cəbrayıl",
+                "nativeName": "Cəbrayıl",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "CAL",
+                "name": "Cəlilabad",
+                "nativeName": "Cəlilabad",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "CUL",
+                "name": "Culfa",
+                "nativeName": "Culfa",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "DAS",
+                "name": "Daşkəsən",
+                "nativeName": "Daşkəsən",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "FUZ",
+                "name": "Füzuli",
+                "nativeName": "Füzuli",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "GA",
+                "name": "Gəncə",
+                "nativeName": "Gəncə",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "GAD",
+                "name": "Gədəbəy",
+                "nativeName": "Gədəbəy",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "GOR",
+                "name": "Goranboy",
+                "nativeName": "Goranboy",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "GOY",
+                "name": "Göyçay",
+                "nativeName": "Göyçay",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "GYG",
+                "name": "Göygöl",
+                "nativeName": "Göygöl",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "HAC",
+                "name": "Hacıqabul",
+                "nativeName": "Hacıqabul",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "IMI",
+                "name": "İmişli",
+                "nativeName": "İmişli",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "ISM",
+                "name": "İsmayıllı",
+                "nativeName": "İsmayıllı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "KAL",
+                "name": "Kəlbəcər",
+                "nativeName": "Kəlbəcər",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "KAN",
+                "name": "Kǝngǝrli",
+                "nativeName": "Kǝngǝrli",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "KUR",
+                "name": "Kürdəmir",
+                "nativeName": "Kürdəmir",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "LA",
+                "name": "Lənkəran",
+                "nativeName": "Lənkəran",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "LAC",
+                "name": "Laçın",
+                "nativeName": "Laçın",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "LAN",
+                "name": "Lənkəran",
+                "nativeName": "Lənkəran",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "LER",
+                "name": "Lerik",
+                "nativeName": "Lerik",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "MAS",
+                "name": "Masallı",
+                "nativeName": "Masallı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "MI",
+                "name": "Mingəçevir",
+                "nativeName": "Mingəçevir",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "NA",
+                "name": "Naftalan",
+                "nativeName": "Naftalan",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "NEF",
+                "name": "Neftçala",
+                "nativeName": "Neftçala",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "NV",
+                "name": "Naxçıvan",
+                "nativeName": "Naxçıvan",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "OGU",
+                "name": "Oğuz",
+                "nativeName": "Oğuz",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "ORD",
+                "name": "Ordubad",
+                "nativeName": "Ordubad",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "QAB",
+                "name": "Qəbələ",
+                "nativeName": "Qəbələ",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "QAX",
+                "name": "Qax",
+                "nativeName": "Qax",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "QAZ",
+                "name": "Qazax",
+                "nativeName": "Qazax",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "QBA",
+                "name": "Quba",
+                "nativeName": "Quba",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "QBI",
+                "name": "Qubadlı",
+                "nativeName": "Qubadlı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "QOB",
+                "name": "Qobustan",
+                "nativeName": "Qobustan",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "QUS",
+                "name": "Qusar",
+                "nativeName": "Qusar",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SA",
+                "name": "Şəki",
+                "nativeName": "Şəki",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SAB",
+                "name": "Sabirabad",
+                "nativeName": "Sabirabad",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SAD",
+                "name": "Sədərək",
+                "nativeName": "Sədərək",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SAH",
+                "name": "Şahbuz",
+                "nativeName": "Şahbuz",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SAK",
+                "name": "Şəki",
+                "nativeName": "Şəki",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SAL",
+                "name": "Salyan",
+                "nativeName": "Salyan",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SAR",
+                "name": "Şərur",
+                "nativeName": "Şərur",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SAT",
+                "name": "Saatlı",
+                "nativeName": "Saatlı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SBN",
+                "name": "Şabran",
+                "nativeName": "Şabran",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SIY",
+                "name": "Siyəzən",
+                "nativeName": "Siyəzən",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SKR",
+                "name": "Şəmkir",
+                "nativeName": "Şəmkir",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SM",
+                "name": "Sumqayıt",
+                "nativeName": "Sumqayıt",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SMI",
+                "name": "Şamaxı",
+                "nativeName": "Şamaxı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SMX",
+                "name": "Samux",
+                "nativeName": "Samux",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SR",
+                "name": "Şirvan",
+                "nativeName": "Şirvan",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "SUS",
+                "name": "Şuşa",
+                "nativeName": "Şuşa",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "TAR",
+                "name": "Tərtər",
+                "nativeName": "Tərtər",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "TOV",
+                "name": "Tovuz",
+                "nativeName": "Tovuz",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "UCA",
+                "name": "Ucar",
+                "nativeName": "Ucar",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "XA",
+                "name": "Xankəndi",
+                "nativeName": "Xankəndi",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "XAC",
+                "name": "Xaçmaz",
+                "nativeName": "Xaçmaz",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "XCI",
+                "name": "Xocalı",
+                "nativeName": "Xocalı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "XIZ",
+                "name": "Xızı",
+                "nativeName": "Xızı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "XVD",
+                "name": "Xocavənd",
+                "nativeName": "Xocavənd",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "YAR",
+                "name": "Yardımlı",
+                "nativeName": "Yardımlı",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "YE",
+                "name": "Yevlax",
+                "nativeName": "Yevlax",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "YEV",
+                "name": "Yevlax",
+                "nativeName": "Yevlax",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "ZAN",
+                "name": "Zəngilan",
+                "nativeName": "Zəngilan",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "ZAQ",
+                "name": "Zaqatala",
+                "nativeName": "Zaqatala",
+                "countryCode": "AZ"
+            },
+            {
+                "code": "ZAR",
+                "name": "Zərdab",
+                "nativeName": "Zərdab",
+                "countryCode": "AZ"
+            }
+        ]
+    }
+}

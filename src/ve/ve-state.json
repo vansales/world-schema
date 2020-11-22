@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "VE",
+        "name": "Venezuela",
+        "nativeName": "Venezuela",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ven.svg",
+        "state": []
+    }
+}

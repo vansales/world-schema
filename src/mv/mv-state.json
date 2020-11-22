@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MV",
+        "name": "Maldives",
+        "nativeName": "Maldives",
+        "timezones": "UTC+05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mdv.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TO",
+        "name": "Tonga",
+        "nativeName": "Tonga",
+        "timezones": "UTC+13:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ton.svg",
+        "state": []
+    }
+}

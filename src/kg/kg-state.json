@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "KG",
+        "name": "Kyrgyzstan",
+        "nativeName": "Кыргызстан",
+        "timezones": "UTC+06:00",
+        "flag": "https:\/\/restcountries.eu\/data\/kgz.svg",
+        "state": []
+    }
+}

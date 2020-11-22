@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TT",
+        "name": "Trinidad and Tobago",
+        "nativeName": "Trinidad and Tobago",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tto.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BF",
+        "name": "Burkina Faso",
+        "nativeName": "Burkina Faso",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/bfa.svg",
+        "state": []
+    }
+}

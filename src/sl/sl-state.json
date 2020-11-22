@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SL",
+        "name": "Sierra Leone",
+        "nativeName": "Sierra Leone",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/sle.svg",
+        "state": []
+    }
+}

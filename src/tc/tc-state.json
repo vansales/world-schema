@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TC",
+        "name": "Turks and Caicos Islands",
+        "nativeName": "Turks and Caicos Islands",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tca.svg",
+        "state": []
+    }
+}

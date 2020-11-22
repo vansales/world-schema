@@ -1,0 +1,89 @@
+{
+    "country": {
+        "code": "CA",
+        "name": "Canada",
+        "nativeName": "Canada",
+        "timezones": "UTC-08:00",
+        "flag": "https:\/\/restcountries.eu\/data\/can.svg",
+        "state": [
+            {
+                "code": "AB",
+                "name": "Alberta",
+                "nativeName": "Alberta",
+                "countryCode": "CA"
+            },
+            {
+                "code": "BC",
+                "name": "British Columbia",
+                "nativeName": "British Columbia",
+                "countryCode": "CA"
+            },
+            {
+                "code": "MB",
+                "name": "Manitoba",
+                "nativeName": "Manitoba",
+                "countryCode": "CA"
+            },
+            {
+                "code": "NB",
+                "name": "New Brunswick",
+                "nativeName": "New Brunswick",
+                "countryCode": "CA"
+            },
+            {
+                "code": "NL",
+                "name": "Newfoundland and Labrador",
+                "nativeName": "Newfoundland and Labrador",
+                "countryCode": "CA"
+            },
+            {
+                "code": "NS",
+                "name": "Nova Scotia",
+                "nativeName": "Nova Scotia",
+                "countryCode": "CA"
+            },
+            {
+                "code": "NT",
+                "name": "Northwest Territories",
+                "nativeName": "Northwest Territories",
+                "countryCode": "CA"
+            },
+            {
+                "code": "NU",
+                "name": "Nunavut",
+                "nativeName": "Nunavut",
+                "countryCode": "CA"
+            },
+            {
+                "code": "ON",
+                "name": "Ontario",
+                "nativeName": "Ontario",
+                "countryCode": "CA"
+            },
+            {
+                "code": "PE",
+                "name": "Prince Edward Island",
+                "nativeName": "Prince Edward Island",
+                "countryCode": "CA"
+            },
+            {
+                "code": "QC",
+                "name": "Quebec",
+                "nativeName": "Quebec",
+                "countryCode": "CA"
+            },
+            {
+                "code": "SK",
+                "name": "Saskatchewan",
+                "nativeName": "Saskatchewan",
+                "countryCode": "CA"
+            },
+            {
+                "code": "YT",
+                "name": "Yukon",
+                "nativeName": "Yukon",
+                "countryCode": "CA"
+            }
+        ]
+    }
+}

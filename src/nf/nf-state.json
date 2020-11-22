@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NF",
+        "name": "Norfolk Island",
+        "nativeName": "Norfolk Island",
+        "timezones": "UTC+11:30",
+        "flag": "https:\/\/restcountries.eu\/data\/nfk.svg",
+        "state": []
+    }
+}

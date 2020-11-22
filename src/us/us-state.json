@@ -1,0 +1,359 @@
+{
+    "country": {
+        "code": "US",
+        "name": "United States",
+        "nativeName": "United States",
+        "timezones": "UTC-12:00",
+        "flag": "https:\/\/restcountries.eu\/data\/usa.svg",
+        "state": [
+            {
+                "code": "AK",
+                "name": "Alaska",
+                "nativeName": "Alaska",
+                "countryCode": "US"
+            },
+            {
+                "code": "AL",
+                "name": "Alabama",
+                "nativeName": "Alabama",
+                "countryCode": "US"
+            },
+            {
+                "code": "AR",
+                "name": "Arkansas",
+                "nativeName": "Arkansas",
+                "countryCode": "US"
+            },
+            {
+                "code": "AS",
+                "name": "American Samoa",
+                "nativeName": "American Samoa",
+                "countryCode": "US"
+            },
+            {
+                "code": "AZ",
+                "name": "Arizona",
+                "nativeName": "Arizona",
+                "countryCode": "US"
+            },
+            {
+                "code": "CA",
+                "name": "California",
+                "nativeName": "California",
+                "countryCode": "US"
+            },
+            {
+                "code": "CO",
+                "name": "Colorado",
+                "nativeName": "Colorado",
+                "countryCode": "US"
+            },
+            {
+                "code": "CT",
+                "name": "Connecticut",
+                "nativeName": "Connecticut",
+                "countryCode": "US"
+            },
+            {
+                "code": "DC",
+                "name": "District of Columbia",
+                "nativeName": "District of Columbia",
+                "countryCode": "US"
+            },
+            {
+                "code": "DE",
+                "name": "Delaware",
+                "nativeName": "Delaware",
+                "countryCode": "US"
+            },
+            {
+                "code": "FL",
+                "name": "Florida",
+                "nativeName": "Florida",
+                "countryCode": "US"
+            },
+            {
+                "code": "GA",
+                "name": "Georgia",
+                "nativeName": "Georgia",
+                "countryCode": "US"
+            },
+            {
+                "code": "GU",
+                "name": "Guam",
+                "nativeName": "Guam",
+                "countryCode": "US"
+            },
+            {
+                "code": "HI",
+                "name": "Hawaii",
+                "nativeName": "Hawaii",
+                "countryCode": "US"
+            },
+            {
+                "code": "IA",
+                "name": "Iowa",
+                "nativeName": "Iowa",
+                "countryCode": "US"
+            },
+            {
+                "code": "ID",
+                "name": "Idaho",
+                "nativeName": "Idaho",
+                "countryCode": "US"
+            },
+            {
+                "code": "IL",
+                "name": "Illinois",
+                "nativeName": "Illinois",
+                "countryCode": "US"
+            },
+            {
+                "code": "IN",
+                "name": "Indiana",
+                "nativeName": "Indiana",
+                "countryCode": "US"
+            },
+            {
+                "code": "KS",
+                "name": "Kansas",
+                "nativeName": "Kansas",
+                "countryCode": "US"
+            },
+            {
+                "code": "KY",
+                "name": "Kentucky",
+                "nativeName": "Kentucky",
+                "countryCode": "US"
+            },
+            {
+                "code": "LA",
+                "name": "Louisiana",
+                "nativeName": "Louisiana",
+                "countryCode": "US"
+            },
+            {
+                "code": "MA",
+                "name": "Massachusetts",
+                "nativeName": "Massachusetts",
+                "countryCode": "US"
+            },
+            {
+                "code": "MD",
+                "name": "Maryland",
+                "nativeName": "Maryland",
+                "countryCode": "US"
+            },
+            {
+                "code": "ME",
+                "name": "Maine",
+                "nativeName": "Maine",
+                "countryCode": "US"
+            },
+            {
+                "code": "MH",
+                "name": "Marshall Islands",
+                "nativeName": "Marshall Islands",
+                "countryCode": "US"
+            },
+            {
+                "code": "MI",
+                "name": "Michigan",
+                "nativeName": "Michigan",
+                "countryCode": "US"
+            },
+            {
+                "code": "MN",
+                "name": "Minnesota",
+                "nativeName": "Minnesota",
+                "countryCode": "US"
+            },
+            {
+                "code": "MO",
+                "name": "Missouri",
+                "nativeName": "Missouri",
+                "countryCode": "US"
+            },
+            {
+                "code": "MP",
+                "name": "Northern Mariana Islands",
+                "nativeName": "Northern Mariana Islands",
+                "countryCode": "US"
+            },
+            {
+                "code": "MS",
+                "name": "Mississippi",
+                "nativeName": "Mississippi",
+                "countryCode": "US"
+            },
+            {
+                "code": "MT",
+                "name": "Montana",
+                "nativeName": "Montana",
+                "countryCode": "US"
+            },
+            {
+                "code": "NC",
+                "name": "North Carolina",
+                "nativeName": "North Carolina",
+                "countryCode": "US"
+            },
+            {
+                "code": "ND",
+                "name": "North Dakota",
+                "nativeName": "North Dakota",
+                "countryCode": "US"
+            },
+            {
+                "code": "NE",
+                "name": "Nebraska",
+                "nativeName": "Nebraska",
+                "countryCode": "US"
+            },
+            {
+                "code": "NH",
+                "name": "New Hampshire",
+                "nativeName": "New Hampshire",
+                "countryCode": "US"
+            },
+            {
+                "code": "NJ",
+                "name": "New Jersey",
+                "nativeName": "New Jersey",
+                "countryCode": "US"
+            },
+            {
+                "code": "NM",
+                "name": "New Mexico",
+                "nativeName": "New Mexico",
+                "countryCode": "US"
+            },
+            {
+                "code": "NV",
+                "name": "Nevada",
+                "nativeName": "Nevada",
+                "countryCode": "US"
+            },
+            {
+                "code": "NY",
+                "name": "New York",
+                "nativeName": "New York",
+                "countryCode": "US"
+            },
+            {
+                "code": "OH",
+                "name": "Ohio",
+                "nativeName": "Ohio",
+                "countryCode": "US"
+            },
+            {
+                "code": "OK",
+                "name": "Oklahoma",
+                "nativeName": "Oklahoma",
+                "countryCode": "US"
+            },
+            {
+                "code": "OR",
+                "name": "Oregon",
+                "nativeName": "Oregon",
+                "countryCode": "US"
+            },
+            {
+                "code": "PA",
+                "name": "Pennsylvania",
+                "nativeName": "Pennsylvania",
+                "countryCode": "US"
+            },
+            {
+                "code": "PR",
+                "name": "Puerto Rico",
+                "nativeName": "Puerto Rico",
+                "countryCode": "US"
+            },
+            {
+                "code": "PW",
+                "name": "Palau",
+                "nativeName": "Palau",
+                "countryCode": "US"
+            },
+            {
+                "code": "RI",
+                "name": "Rhode Island",
+                "nativeName": "Rhode Island",
+                "countryCode": "US"
+            },
+            {
+                "code": "SC",
+                "name": "South Carolina",
+                "nativeName": "South Carolina",
+                "countryCode": "US"
+            },
+            {
+                "code": "SD",
+                "name": "South Dakota",
+                "nativeName": "South Dakota",
+                "countryCode": "US"
+            },
+            {
+                "code": "TN",
+                "name": "Tennessee",
+                "nativeName": "Tennessee",
+                "countryCode": "US"
+            },
+            {
+                "code": "TX",
+                "name": "Texas",
+                "nativeName": "Texas",
+                "countryCode": "US"
+            },
+            {
+                "code": "UT",
+                "name": "Utah",
+                "nativeName": "Utah",
+                "countryCode": "US"
+            },
+            {
+                "code": "VA",
+                "name": "Virginia",
+                "nativeName": "Virginia",
+                "countryCode": "US"
+            },
+            {
+                "code": "VI",
+                "name": "Virgin Islands",
+                "nativeName": "Virgin Islands",
+                "countryCode": "US"
+            },
+            {
+                "code": "VT",
+                "name": "Vermont",
+                "nativeName": "Vermont",
+                "countryCode": "US"
+            },
+            {
+                "code": "WA",
+                "name": "Washington",
+                "nativeName": "Washington",
+                "countryCode": "US"
+            },
+            {
+                "code": "WI",
+                "name": "Wisconsin",
+                "nativeName": "Wisconsin",
+                "countryCode": "US"
+            },
+            {
+                "code": "WV",
+                "name": "West Virginia",
+                "nativeName": "West Virginia",
+                "countryCode": "US"
+            },
+            {
+                "code": "WY",
+                "name": "Wyoming",
+                "nativeName": "Wyoming",
+                "countryCode": "US"
+            }
+        ]
+    }
+}

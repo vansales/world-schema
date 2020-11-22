@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "JP",
+        "name": "Japan",
+        "nativeName": "日本",
+        "timezones": "UTC+09:00",
+        "flag": "https:\/\/restcountries.eu\/data\/jpn.svg",
+        "state": []
+    }
+}

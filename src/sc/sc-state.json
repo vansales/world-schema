@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "SC",
+        "name": "Seychelles",
+        "nativeName": "Seychelles",
+        "timezones": "UTC+04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/syc.svg",
+        "state": []
+    }
+}

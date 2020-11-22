@@ -1,0 +1,59 @@
+{
+    "country": {
+        "code": "AG",
+        "name": "Antigua and Barbuda",
+        "nativeName": "Antigua and Barbuda",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/atg.svg",
+        "state": [
+            {
+                "code": "03",
+                "name": "Saint George",
+                "nativeName": "Saint George",
+                "countryCode": "AG"
+            },
+            {
+                "code": "04",
+                "name": "Saint John",
+                "nativeName": "Saint John",
+                "countryCode": "AG"
+            },
+            {
+                "code": "05",
+                "name": "Saint Mary",
+                "nativeName": "Saint Mary",
+                "countryCode": "AG"
+            },
+            {
+                "code": "06",
+                "name": "Saint Paul",
+                "nativeName": "Saint Paul",
+                "countryCode": "AG"
+            },
+            {
+                "code": "07",
+                "name": "Saint Peter",
+                "nativeName": "Saint Peter",
+                "countryCode": "AG"
+            },
+            {
+                "code": "08",
+                "name": "Saint Philip",
+                "nativeName": "Saint Philip",
+                "countryCode": "AG"
+            },
+            {
+                "code": "10",
+                "name": "Barbuda",
+                "nativeName": "Barbuda",
+                "countryCode": "AG"
+            },
+            {
+                "code": "11",
+                "name": "Redonda",
+                "nativeName": "Redonda",
+                "countryCode": "AG"
+            }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "AQ",
+        "name": "Antarctica",
+        "nativeName": "Antarctica",
+        "timezones": "UTC-03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ata.svg",
+        "state": []
+    }
+}

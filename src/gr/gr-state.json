@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GR",
+        "name": "Greece",
+        "nativeName": "Ελλάδα",
+        "timezones": "UTC+02:00",
+        "flag": "https:\/\/restcountries.eu\/data\/grc.svg",
+        "state": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "PY",
+        "name": "Paraguay",
+        "nativeName": "Paraguay",
+        "timezones": "UTC-04:00",
+        "flag": "https:\/\/restcountries.eu\/data\/pry.svg",
+        "state": []
+    }
+}

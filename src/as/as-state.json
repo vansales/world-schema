@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "AS",
+        "name": "American Samoa",
+        "nativeName": "American Samoa",
+        "timezones": "UTC-11:00",
+        "flag": "https:\/\/restcountries.eu\/data\/asm.svg",
+        "state": []
+    }
+}

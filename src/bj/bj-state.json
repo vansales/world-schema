@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BJ",
+        "name": "Benin",
+        "nativeName": "Bénin",
+        "timezones": "UTC+01:00",
+        "flag": "https:\/\/restcountries.eu\/data\/ben.svg",
+        "state": []
+    }
+}

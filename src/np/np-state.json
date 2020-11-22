@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "NP",
+        "name": "Nepal",
+        "nativeName": "नेपाल",
+        "timezones": "UTC+05:45",
+        "flag": "https:\/\/restcountries.eu\/data\/npl.svg",
+        "state": []
+    }
+}

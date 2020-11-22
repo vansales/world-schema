@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "GN",
+        "name": "Guinea",
+        "nativeName": "Guinée",
+        "timezones": "UTC",
+        "flag": "https:\/\/restcountries.eu\/data\/gin.svg",
+        "state": []
+    }
+}

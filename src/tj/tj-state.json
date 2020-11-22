@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "TJ",
+        "name": "Tajikistan",
+        "nativeName": "Тоҷикистон",
+        "timezones": "UTC+05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/tjk.svg",
+        "state": []
+    }
+}

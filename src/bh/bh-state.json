@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "BH",
+        "name": "Bahrain",
+        "nativeName": "‏البحرين",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/bhr.svg",
+        "state": []
+    }
+}

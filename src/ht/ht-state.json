@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "HT",
+        "name": "Haiti",
+        "nativeName": "Haïti",
+        "timezones": "UTC-05:00",
+        "flag": "https:\/\/restcountries.eu\/data\/hti.svg",
+        "state": []
+    }
+}

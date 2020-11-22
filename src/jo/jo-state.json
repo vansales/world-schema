@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "JO",
+        "name": "Jordan",
+        "nativeName": "الأردن",
+        "timezones": "UTC+03:00",
+        "flag": "https:\/\/restcountries.eu\/data\/jor.svg",
+        "state": []
+    }
+}

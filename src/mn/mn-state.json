@@ -1,0 +1,10 @@
+{
+    "country": {
+        "code": "MN",
+        "name": "Mongolia",
+        "nativeName": "Монгол улс",
+        "timezones": "UTC+07:00",
+        "flag": "https:\/\/restcountries.eu\/data\/mng.svg",
+        "state": []
+    }
+}
