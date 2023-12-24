@@ -6,8 +6,14 @@ Data set with world countries (english and local names, flags, coordinates) in j
 
 Data list in json format easy to integrate in project. below sample of url for particular data sets.
 
-- https://vansales.github.io/world-schema/src/country.json
-- https://vansales.github.io/world-schema/src/th/th-state.json
+- https://vansales.github.io/world-schema/data/country.json
+
+For the states or province
+- https://vansales.github.io/world-schema/data/th/th-state.json
+
+Fore the cities or district
+- https://vansales.github.io/world-schema/data/th/th-bkk.json
+- https://vansales.github.io/world-schema/data/th/th-cnt.json
 
 
 

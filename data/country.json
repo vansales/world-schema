@@ -5,7 +5,7 @@
             "name": "Andorra",
             "nativeName": "Andorra",
             "timezones": "UTC+01:00",
-            "flag": "https://restcountries.eu/data/and.svg"
+            "flag": "https://vansales.github.io/world-schema/flags/ad.svg"
         },
         {
             "code": "AE",
@@ -831,7 +831,7 @@
             "name": "Cambodia",
             "nativeName": "Kâmpŭchéa",
             "timezones": "UTC+07:00",
-            "flag": "https://restcountries.eu/data/khm.svg"
+            "flag": "https://vansales.github.io/world-schema/flags/kh.svg"
         },
         {
             "code": "KI",
@@ -894,7 +894,7 @@
             "name": "Lao People's Democratic Republic",
             "nativeName": "ສປປລາວ",
             "timezones": "UTC+07:00",
-            "flag": "https://restcountries.eu/data/lao.svg"
+            "flag": "https://vansales.github.io/world-schema/flags/la.svg"
         },
         {
             "code": "LB",
@@ -1538,7 +1538,7 @@
             "name": "Thailand",
             "nativeName": "ประเทศไทย",
             "timezones": "UTC+07:00",
-            "flag": "https://restcountries.eu/data/tha.svg"
+            "flag": "https://vansales.github.io/world-schema/flags/th.svg"
         },
         {
             "code": "TJ",
